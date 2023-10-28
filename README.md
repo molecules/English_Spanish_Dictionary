@@ -1,6 +1,6 @@
 |English|IPA|Spanish|example in English|ejemplo en español|
 |-------|---|-------|------------------|------------------|
-|eat|it|comer|I eat beets|Como remolachas|
+|<a href="https://en.wiktionary.org/wiki/beet#Pronunciation">eat</a>|it|comer|I eat beets|Como remolachas|
 |beet|bit|remolacha|I eat beets|Como remolachas|
 |beat|bit|batir,vencer,derrotar,ritmo,golpear|I beat the eggs with a fork|Bato los huevos con un tenedor|
 |feat|fit|logro|Winning a gold medal is a great feat|Ganano el premio oro es un gran logro|
