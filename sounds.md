@@ -42,7 +42,14 @@
 
 <hr>
 
-# aɪ (as in time )
+# aɪ (as in time)
 |English|IPA|Spanish|example in English|ejemplo en español|
 |-------|---|-------|------------------|------------------|
+|<a href="https://en.wiktionary.org/wiki/bye#Pronunciation">bye</a>|baɪ|adiós|||
+|<a href="https://en.wiktionary.org/wiki/by#Pronunciation">by</a>|baɪ|por, al lado de|I'll go by the store to buy fish|Pasaré por la tienda a comprar pescado|
+|<a href="https://en.wiktionary.org/wiki/buy#Pronunciation">buy</a>|baɪ|comprar|I'll go by the store to buy fish|I'll go by the store to buy fish|
+|<a href="https://en.wiktionary.org/wiki/fly#Pronunciation">fly</a>|flaɪ|volar, mosca|Watch the fly fly high|Mira la mosca volar alto|
+|<a href="https://en.wiktionary.org/wiki/hi#Pronunciation">hi</a>|haɪ|hola|||
+|<a href="https://en.wiktionary.org/wiki/high#Pronunciation">high</a>|haɪ|alto (de altitud)|Watch the fly fly high|Mira la mosca volar alto|
+|<a href="https://en.wiktionary.org/wiki/I#Pronunciation">I</a>|aɪ|yo|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
 |<a href="https://en.wiktionary.org/wiki/time#Pronunciation">time</a>|taɪm|tiempo|What time is it?|¿Qué hora es?|
