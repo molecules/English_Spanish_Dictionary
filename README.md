@@ -3,7 +3,7 @@
 |<a href="https://en.wiktionary.org/wiki/eat#Pronunciation">eat</a>|it|comer|I eat beets|Como remolachas|
 |<a href="https://en.wiktionary.org/wiki/beet#Pronunciation">beet</a>|bit|remolacha|I eat beets|Como remolachas|
 |<a href="https://en.wiktionary.org/wiki/beat#Pronunciation">beat</a>|bit|batir, vencer, derrotar, ritmo, golpear|I beat the eggs with a fork|Bato los huevos con un tenedor|
-|<a href="https://en.wiktionary.org/wiki/feat#Pronunciation">feat</a>|fit|logro|Winning a gold medal is a great feat|Ganano el premio oro es un gran logro|
+|<a href="https://en.wiktionary.org/wiki/feat#Pronunciation">feat</a>|fit|logro|Winning a gold medal is a great feat|Ganando el premio oro es un gran logro|
 |<a href="https://en.wiktionary.org/wiki/feet#Pronunciation">feet</a>|fit|pies|I stand on my feet|Me pongo de pie|
 |<a href="https://en.wiktionary.org/wiki/fit#Pronunciation">fit</a>|fɪt|ajustar, adaptar, caber, en forma|My feet fit in my shoes|Mis pies caben en mis zapatos|
 |<a href="https://en.wiktionary.org/wiki/it#Pronunciation">it</a>|ɪt|(alguna cosa)lo, le, la, él, ello, ella, aquél, aquélla|Please give it to me|Por favor, damelo|
