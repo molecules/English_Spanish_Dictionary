@@ -1,6 +1,8 @@
 |English|IPA|Spanish|example in English|ejemplo en español|Rule breaker|
 |-------|---|-------|------------------|------------------|------------|
 |<a href="https://en.wiktionary.org/wiki/been#Pronunciation">been</a>|bɪn|sido, estado|I have been sick|He estado enfermo| * Only "ee" word that has the ɪ (as in ship or sit) sound * |
+|<a href="https://en.wiktionary.org/wiki/bat#Pronunciation">bat</a>|kæt|gato|<a href="https://translate.google.com/?sl=en&tl=es&text=My%20cat%20sat%20on%20a%20bat&op=translate">My cat sat on a bat</a>|Mi gato se sentó en un murciélago| |
+|<a href="https://en.wiktionary.org/wiki/cat#Pronunciation">cat</a>|kæt|gato|My cat sat on a bat|Mi gato se sentó en un murciélago| |
 |<a href="https://en.wiktionary.org/wiki/eat#Pronunciation">eat</a>|it|comer|I eat beets|Como remolachas| |
 |<a href="https://en.wiktionary.org/wiki/beet#Pronunciation">beet</a>|bit|remolacha|I eat beets|Como remolachas| |
 |<a href="https://en.wiktionary.org/wiki/beat#Pronunciation">beat</a>|bit|batir, vencer, derrotar, ritmo, golpear|I beat the eggs with a fork|Bato los huevos con un tenedor| |
