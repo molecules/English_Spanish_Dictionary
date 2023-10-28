@@ -14,4 +14,4 @@
 |<a href="https://en.wiktionary.org/wiki/seat#Pronunciation">seat</a>|sit|asiento, silla, sede|Please have a seat|Por favor, tome asiento|
 |<a href="https://en.wiktionary.org/wiki/been#Pronunciation">been</a>|bɪn|sido, estado|I have been sick|He estado enfermo|
 |<a href="https://en.wiktionary.org/wiki/set#Pronunciation">set</a>|sɛt|poner|I set the table|Puse la mesa|
-|<a href="https://en.wiktionary.org/wiki/red#Pronunciation"><red</a>|ɹɛd|rojo|I wear a red tie|Me llevo una corbata roja|
+|<a href="https://en.wiktionary.org/wiki/red#Pronunciation">red</a>|ɹɛd|rojo|I wear a red tie|Me llevo una corbata roja|
