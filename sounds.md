@@ -1,4 +1,4 @@
-#i (as in she or sheep)
+# i (as in she or sheep)
 
 |English|IPA|Spanish|example in English|ejemplo en español|
 |-------|---|-------|------------------|------------------|
@@ -14,7 +14,7 @@
 <hr>
 
 
-#ɪ (as in ship or sit) 
+# ɪ (as in ship or sit) 
 
 |English|IPA|Spanish|example in English|ejemplo en español|Rule breaker|
 |-------|---|-------|------------------|------------------|------------|
