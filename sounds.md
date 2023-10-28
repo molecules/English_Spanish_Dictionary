@@ -11,6 +11,9 @@
 |<a href="https://en.wiktionary.org/wiki/sheet#Pronunciation">sheet</a>|ʃit|hoja(de papel), sábana|Please hand me that sheet of paper|Por favor, dame aquel hoja de papel|
 |<a href="https://en.wiktionary.org/wiki/seat#Pronunciation">seat</a>|sit|asiento, silla, sede|Please have a seat|Por favor, tome asiento|
 
+<hr>
+
+
 #ɪ (as in ship or sit) 
 
 |English|IPA|Spanish|example in English|ejemplo en español|Rule breaker|
@@ -21,8 +24,12 @@
 |<a href="https://en.wiktionary.org/wiki/ship#Pronunciation">ship</a>|ʃɪp|barco, navio|I traveled by ship|Viajé en barco| |
 |<a href="https://en.wiktionary.org/wiki/sit#Pronunciation">sit</a>|sɪt|sentarse|Please sit down|Por favor, sientase| |
 
+<hr>
+
 # ɛ (as in red)
 |English|IPA|Spanish|example in English|ejemplo en español|
 |-------|---|-------|------------------|------------------|
 |<a href="https://en.wiktionary.org/wiki/set#Pronunciation">set</a>|sɛt|poner|I set the table|Puse la mesa|
 |<a href="https://en.wiktionary.org/wiki/red#Pronunciation">red</a>|ɹɛd|rojo|I wear a red tie|Me llevo una corbata roja|
+
+<hr>
