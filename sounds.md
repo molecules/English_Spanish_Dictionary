@@ -44,4 +44,5 @@
 
 # aɪ (as in time )
 |English|IPA|Spanish|example in English|ejemplo en español|
+|-------|---|-------|------------------|------------------|
 |<a href="https://en.wiktionary.org/wiki/time#Pronunciation">time</a>|taɪm|tiempo|What time is it?|¿Qué hora es?|
