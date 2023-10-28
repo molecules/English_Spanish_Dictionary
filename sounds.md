@@ -1,4 +1,5 @@
-|i sounds |||||
+#i (as in she or sheep)
+
 |English|IPA|Spanish|example in English|ejemplo en español|
 |-------|---|-------|------------------|------------------|
 |<a href="https://en.wiktionary.org/wiki/eat#Pronunciation">eat</a>|it|comer|I eat beets|Como remolachas|
@@ -10,18 +11,17 @@
 |<a href="https://en.wiktionary.org/wiki/sheet#Pronunciation">sheet</a>|ʃit|hoja(de papel), sábana|Please hand me that sheet of paper|Por favor, dame aquel hoja de papel|
 |<a href="https://en.wiktionary.org/wiki/seat#Pronunciation">seat</a>|sit|asiento, silla, sede|Please have a seat|Por favor, tome asiento|
 
-|English|IPA|Spanish|example in English|ejemplo en español|
-|-------|---|-------|------------------|------------------|
-|<a href="https://en.wiktionary.org/wiki/fit#Pronunciation">fit</a>|fɪt|ajustar, adaptar, caber, en forma|My feet fit in my shoes|Mis pies caben en mis zapatos|
-|<a href="https://en.wiktionary.org/wiki/it#Pronunciation">it</a>|ɪt|(alguna cosa)lo, le, la, él, ello, ella, aquél, aquélla|Please give it to me|Por favor, damelo|
+#ɪ (as in ship or sit) 
 
+|English|IPA|Spanish|example in English|ejemplo en español|Rule breaker|
+|-------|---|-------|------------------|------------------|------------|
+|<a href="https://en.wiktionary.org/wiki/been#Pronunciation">been</a>|bɪn|sido, estado|I have been sick|He estado enfermo| * Only "ee" word that has the ɪ (as in ship or sit) sound * |
+|<a href="https://en.wiktionary.org/wiki/fit#Pronunciation">fit</a>|fɪt|ajustar, adaptar, caber, en forma|My feet fit in my shoes|Mis pies caben en mis zapatos| |
+|<a href="https://en.wiktionary.org/wiki/it#Pronunciation">it</a>|ɪt|(alguna cosa)lo, le, la, él, ello, ella, aquél, aquélla|Please give it to me|Por favor, damelo| |
+|<a href="https://en.wiktionary.org/wiki/ship#Pronunciation">ship</a>|ʃɪp|barco, navio|I traveled by ship|Viajé en barco| |
+|<a href="https://en.wiktionary.org/wiki/sit#Pronunciation">sit</a>|sɪt|sentarse|Please sit down|Por favor, sientase| |
 
-|English|IPA|Spanish|example in English|ejemplo en español|
-|-------|---|-------|------------------|------------------|
-|<a href="https://en.wiktionary.org/wiki/ship#Pronunciation">ship</a>|ʃɪp|barco, navio|I traveled by ship|Viajé en barco|
-|<a href="https://en.wiktionary.org/wiki/sit#Pronunciation">sit</a>|sɪt|sentarse|Please sit down|Por favor, sientase|
-|<a href="https://en.wiktionary.org/wiki/been#Pronunciation">been</a>|bɪn|sido, estado|I have been sick|He estado enfermo|
-
+# ɛ (as in red)
 |English|IPA|Spanish|example in English|ejemplo en español|
 |-------|---|-------|------------------|------------------|
 |<a href="https://en.wiktionary.org/wiki/set#Pronunciation">set</a>|sɛt|poner|I set the table|Puse la mesa|
