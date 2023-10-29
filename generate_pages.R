@@ -6,7 +6,7 @@ words <- read.csv("dictionary.tsv", sep="\t")
 
 sounds <- unique(words$sound)
 
-sink("dict.md")
+sink("dictionary.md")
 
 surround_join <- function(row, joiner) {
     paste0(joiner,
@@ -16,7 +16,7 @@ surround_join <- function(row, joiner) {
     )
 }
 
-pronounce_link_and_join <- function(row, joiner) {
+links_and_join <- function(row, joiner) {
     paste0(joiner,
        paste0(
           c(glue('<a href="https://en.wiktionary.org/wiki/{row[1]}#Pronunciation">{row[1]}</a>'),
@@ -38,7 +38,7 @@ pronounce_link_and_join <- function(row, joiner) {
 }
 
 print_md_table_row <- function(row) {
-    cat(pronounce_link_and_join(row, "|"))
+    cat(links_and_join(row, "|"))
 }
 
 cat(surround_join(c("English",
