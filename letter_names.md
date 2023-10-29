@@ -1,4 +1,5 @@
 |Letter|IPA|Spanish equivalent|name (for English speakers)|
+|--|--|--|--|
 |a|eɪ|ei|a, ay|
 |b|bi|bi|bee|
 |c|si|si|cee, see|
