@@ -1,4 +1,4 @@
-|sound|sound spelling|word|IPA|some translations (algunos traducciones)|example in English|ejemplo en español|
+|sound|sound spelling|word|pronunciation (IPA)|some translations (algunos traducciones)|example in English|ejemplo en español|
 |----|----|----|----|----|----|----|
 |aɪ|I|<a href="https://en.wiktionary.org/wiki/I#Pronunciation">I</a>|aɪ|yo|<a href="https://translate.google.com/?sl=en&tl=es&text=I%20went%20by%20the%20store%20to%20buy%20fish&op=translate">I went by the store to buy fish</a>|Pasé por la tienda a comprar pescado|
 |aɪ|i|<a href="https://en.wiktionary.org/wiki/time#Pronunciation">time</a>|taɪm|tiempo|<a href="https://translate.google.com/?sl=en&tl=es&text=What%20time%20is%20it?&op=translate">What time is it?</a>|¿Qué hora es?|
