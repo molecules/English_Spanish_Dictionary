@@ -1,12 +1,13 @@
 #!/bin/env Rscript
 library(dplyr)
 library(glue)
+library(rmarkdown)
 
 words <- read.csv("dictionary.tsv", sep="\t")
 
 sounds <- unique(words$sound)
 
-sink("dictionary.md")
+sink("dictionary.Rmd")
 
 surround_join <- function(row, joiner) {
     paste0(joiner,
@@ -64,3 +65,5 @@ apply(words[-1], 1, print_md_table_row)
 # }
 
 sink()
+
+render(input = "dictionary.Rmd", output_format = "html_document")
