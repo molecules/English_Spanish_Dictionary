@@ -1,23 +1,23 @@
 |English|IPA|Spanish|example in English|ejemplo en español|Rule breaker|
-|-------|---|-------|------------------|------------------|------------|
-|<a href="https://en.wiktionary.org/wiki/been#Pronunciation">been</a>|bɪn|sido, estado|I have been sick|He estado enfermo| * Only "ee" word that has the ɪ (as in ship or sit) sound * |
-|<a href="https://en.wiktionary.org/wiki/bat#Pronunciation">bat</a>|kæt|gato|<a href="https://translate.google.com/?sl=en&tl=es&text=My%20cat%20sat%20on%20a%20bat&op=translate">My cat sat on a bat</a>|Mi gato se sentó en un murciélago| |
-|<a href="https://en.wiktionary.org/wiki/cat#Pronunciation">cat</a>|kæt|gato|My cat sat on a bat|Mi gato se sentó en un murciélago| |
-|<a href="https://en.wiktionary.org/wiki/eat#Pronunciation">eat</a>|it|comer|I eat beets|Como remolachas| |
-|<a href="https://en.wiktionary.org/wiki/beet#Pronunciation">beet</a>|bit|remolacha|I eat beets|Como remolachas| |
-|<a href="https://en.wiktionary.org/wiki/beat#Pronunciation">beat</a>|bit|batir, vencer, derrotar, ritmo, golpear|I beat the eggs with a fork|Bato los huevos con un tenedor| |
-|<a href="https://en.wiktionary.org/wiki/feat#Pronunciation">feat</a>|fit|logro|Winning a gold medal is a great feat|Ganando el premio oro es un gran logro| |
-|<a href="https://en.wiktionary.org/wiki/feet#Pronunciation">feet</a>|fit|pies|I stand on my feet|Me pongo de pie| |
-|<a href="https://en.wiktionary.org/wiki/fit#Pronunciation">fit</a>|fɪt|ajustar, adaptar, caber, en forma|My feet fit in my shoes|Mis pies caben en mis zapatos| |
-|<a href="https://en.wiktionary.org/wiki/fit#Pronunciation">fit</a>|fɪt|ajustar, adaptar, caber, en forma|My feet fit in my shoes|Mis pies caben en mis zapatos| |
-|<a href="https://en.wiktionary.org/wiki/fly#Pronunciation">fly</a>|flɪ|volar, mosca|Watch the fly fly high|Mira la mosca volar alto| |
-|<a href="https://en.wiktionary.org/wiki/high#Pronunciation">high</a>|haɪ|alto (de altitud)|Watch the fly fly high|Mira la mosca volar alto| |
-|<a href="https://en.wiktionary.org/wiki/it#Pronunciation">it</a>|ɪt|(alguna cosa)lo, le, la, él, ello, ella, aquél, aquélla|Please give it to me|Por favor, damelo| |
-|<a href="https://en.wiktionary.org/wiki/red#Pronunciation">red</a>|ɹɛd|rojo|I wear a red tie|Me llevo una corbata roja| |
-|<a href="https://en.wiktionary.org/wiki/seat#Pronunciation">seat</a>|sit|asiento, silla, sede|Please have a seat|Por favor, tome asiento| |
-|<a href="https://en.wiktionary.org/wiki/sheep#Pronunciation">sheep</a>|ʃip|oveja, ovejas|The shepherd tends his sheep|El pastor cuida a sus ovejas| |
-|<a href="https://en.wiktionary.org/wiki/sheet#Pronunciation">sheet</a>|ʃit|hoja(de papel), sábana|Please hand me that sheet of paper|Por favor, dame aquel hoja de papel| |
-|<a href="https://en.wiktionary.org/wiki/ship#Pronunciation">ship</a>|ʃɪp|barco, navio|I traveled by ship|Viajé en barco| |
-|<a href="https://en.wiktionary.org/wiki/sit#Pronunciation">sit</a>|sɪt|sentarse|Please sit down|Por favor, sientase| |
-|<a href="https://en.wiktionary.org/wiki/set#Pronunciation">set</a>|sɛt|poner|I set the table|Puse la mesa| |
-|<a href="https://en.wiktionary.org/wiki/time#Pronunciation">time</a>|taɪm|tiempo|What time is it?|¿Qué hora es?| |
+|----|----|----|----|----|----|
+|<a href="https://en.wiktionary.org/wiki/been#Pronunciation">been</a>|bɪn|sido, estado|<a href="https://translate.google.com/?sl=en&tl=es&text=I%20have%20been%20sick&op=translate">I have been sick</a>|He estado enfermo| Only ee word that has the ɪ (as in ship or sit) sound|
+|<a href="https://en.wiktionary.org/wiki/bat#Pronunciation">bat</a>|kæt|gato|<a href="https://translate.google.com/?sl=en&tl=es&text=My%20cat%20sat%20on%20a%20bat&op=translate">My cat sat on a bat</a>|Mi gato se sentó en un murciélago||
+|<a href="https://en.wiktionary.org/wiki/cat#Pronunciation">cat</a>|kæt|gato|<a href="https://translate.google.com/?sl=en&tl=es&text=My%20cat%20sat%20on%20a%20bat&op=translate">My cat sat on a bat</a>|Mi gato se sentó en un murciélago||
+|<a href="https://en.wiktionary.org/wiki/eat#Pronunciation">eat</a>|it|comer|<a href="https://translate.google.com/?sl=en&tl=es&text=I%20eat%20beets&op=translate">I eat beets</a>|Como remolachas||
+|<a href="https://en.wiktionary.org/wiki/beet#Pronunciation">beet</a>|bit|remolacha|<a href="https://translate.google.com/?sl=en&tl=es&text=I%20eat%20beets&op=translate">I eat beets</a>|Como remolachas||
+|<a href="https://en.wiktionary.org/wiki/beat#Pronunciation">beat</a>|bit|batir, vencer, derrotar, ritmo, golpear|<a href="https://translate.google.com/?sl=en&tl=es&text=I%20beat%20the%20eggs%20with%20a%20fork&op=translate">I beat the eggs with a fork</a>|Bato los huevos con un tenedor||
+|<a href="https://en.wiktionary.org/wiki/feat#Pronunciation">feat</a>|fit|logro|<a href="https://translate.google.com/?sl=en&tl=es&text=Winning%20a%20gold%20medal%20is%20a%20great%20feat&op=translate">Winning a gold medal is a great feat</a>|Ganando el premio oro es un gran logro||
+|<a href="https://en.wiktionary.org/wiki/feet#Pronunciation">feet</a>|fit|pies|<a href="https://translate.google.com/?sl=en&tl=es&text=I%20stand%20on%20my%20feet&op=translate">I stand on my feet</a>|Me pongo de pie||
+|<a href="https://en.wiktionary.org/wiki/fit#Pronunciation">fit</a>|fɪt|ajustar, adaptar, caber, en forma|<a href="https://translate.google.com/?sl=en&tl=es&text=My%20feet%20fit%20in%20my%20shoes&op=translate">My feet fit in my shoes</a>|Mis pies caben en mis zapatos||
+|<a href="https://en.wiktionary.org/wiki/fit#Pronunciation">fit</a>|fɪt|ajustar, adaptar, caber, en forma|<a href="https://translate.google.com/?sl=en&tl=es&text=My%20feet%20fit%20in%20my%20shoes&op=translate">My feet fit in my shoes</a>|Mis pies caben en mis zapatos||
+|<a href="https://en.wiktionary.org/wiki/fly#Pronunciation">fly</a>|flaɪ|volar, mosca|<a href="https://translate.google.com/?sl=en&tl=es&text=Watch%20the%20fly%20fly%20high&op=translate">Watch the fly fly high</a>|Mira la mosca volar alto||
+|<a href="https://en.wiktionary.org/wiki/high#Pronunciation">high</a>|haɪ|alto (de altitud)|<a href="https://translate.google.com/?sl=en&tl=es&text=Watch%20the%20fly%20fly%20high&op=translate">Watch the fly fly high</a>|Mira la mosca volar alto||
+|<a href="https://en.wiktionary.org/wiki/it#Pronunciation">it</a>|ɪt|(alguna cosa)lo, le, la, él, ello, ella, aquél, aquélla|<a href="https://translate.google.com/?sl=en&tl=es&text=Please%20give%20it%20to%20me&op=translate">Please give it to me</a>|Por favor, damelo||
+|<a href="https://en.wiktionary.org/wiki/red#Pronunciation">red</a>|ɹɛd|rojo|<a href="https://translate.google.com/?sl=en&tl=es&text=I%20wear%20a%20red%20tie&op=translate">I wear a red tie</a>|Me llevo una corbata roja||
+|<a href="https://en.wiktionary.org/wiki/seat#Pronunciation">seat</a>|sit|asiento, silla, sede|<a href="https://translate.google.com/?sl=en&tl=es&text=Please%20have%20a%20seat&op=translate">Please have a seat</a>|Por favor, tome asiento||
+|<a href="https://en.wiktionary.org/wiki/sheep#Pronunciation">sheep</a>|ʃip|oveja, ovejas|<a href="https://translate.google.com/?sl=en&tl=es&text=The%20shepherd%20tends%20his%20sheep&op=translate">The shepherd tends his sheep</a>|El pastor cuida a sus ovejas||
+|<a href="https://en.wiktionary.org/wiki/sheet#Pronunciation">sheet</a>|ʃit|hoja(de papel), sábana|<a href="https://translate.google.com/?sl=en&tl=es&text=Please%20hand%20me%20that%20sheet%20of%20paper&op=translate">Please hand me that sheet of paper</a>|Por favor, dame aquel hoja de papel||
+|<a href="https://en.wiktionary.org/wiki/ship#Pronunciation">ship</a>|ʃɪp|barco, navio|<a href="https://translate.google.com/?sl=en&tl=es&text=I%20traveled%20by%20ship&op=translate">I traveled by ship</a>|Viajé en barco||
+|<a href="https://en.wiktionary.org/wiki/sit#Pronunciation">sit</a>|sɪt|sentarse|<a href="https://translate.google.com/?sl=en&tl=es&text=Please%20sit%20down&op=translate">Please sit down</a>|Por favor, sientase||
+|<a href="https://en.wiktionary.org/wiki/set#Pronunciation">set</a>|sɛt|poner|<a href="https://translate.google.com/?sl=en&tl=es&text=I%20set%20the%20table&op=translate">I set the table</a>|Puse la mesa||
+|<a href="https://en.wiktionary.org/wiki/time#Pronunciation">time</a>|taɪm|tiempo|<a href="https://translate.google.com/?sl=en&tl=es&text=What%20time%20is%20it?&op=translate">What time is it?</a>|¿Qué hora es?||
