@@ -21,4 +21,3 @@
 |<a href="https://en.wiktionary.org/wiki/sit#Pronunciation">sit</a>|sɪt|sentarse|<a href="https://translate.google.com/?sl=en&tl=es&text=Please%20sit%20down&op=translate">Please sit down</a>|Por favor, sientase||
 |<a href="https://en.wiktionary.org/wiki/set#Pronunciation">set</a>|sɛt|poner|<a href="https://translate.google.com/?sl=en&tl=es&text=I%20set%20the%20table&op=translate">I set the table</a>|Puse la mesa||
 |<a href="https://en.wiktionary.org/wiki/time#Pronunciation">time</a>|taɪm|tiempo|<a href="https://translate.google.com/?sl=en&tl=es&text=What%20time%20is%20it?&op=translate">What time is it?</a>|¿Qué hora es?||
-NULL

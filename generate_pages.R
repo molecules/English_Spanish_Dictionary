@@ -54,7 +54,7 @@ cat(surround_join(c("English",
 
 cat(surround_join(rep("----", 6),"|"))
 
-apply(words[-1], 1, print_md_table_row)
+silence_result <- apply(words[-1], 1, print_md_table_row)
 
 # # Separate by sound
 # for (sound in sounds) {
@@ -65,5 +65,6 @@ apply(words[-1], 1, print_md_table_row)
 # }
 
 sink()
+
 
 render(input = "dictionary.Rmd", output_format = "html_document")
