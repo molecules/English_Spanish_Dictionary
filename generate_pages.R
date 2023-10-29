@@ -20,17 +20,19 @@ surround_join <- function(row, joiner) {
 links_and_join <- function(row, joiner) {
     paste0(joiner,
        paste0(
-          c(glue('<a href="https://en.wiktionary.org/wiki/{row[1]}#Pronunciation">{row[1]}</a>'),
-	  row[2],
-	  row[3],
-	  glue('<a href="https://translate.google.com/?sl=en&tl=es&text=',
-		 gsub(" ", "%20",row[4]),
+          c(
+	    row[1],
+	    row[2],
+	    glue('<a href="https://en.wiktionary.org/wiki/{row[3]}#Pronunciation">{row[3]}</a>'),
+	    row[4],
+	    row[5],
+	    glue('<a href="https://translate.google.com/?sl=en&tl=es&text=',
+		 gsub(" ", "%20",row[6]),
 		 '&op=translate">',
-		 row[4],
+		 row[6],
 		 '</a>'
-	  ),
-	  row[5],
-	  row[6]
+	    ),
+	    row[7]
 	  ),
           collapse=joiner),
        joiner,
@@ -42,19 +44,25 @@ print_md_table_row <- function(row) {
     cat(links_and_join(row, "|"))
 }
 
-cat(surround_join(c("English",
-                "IPA",
-                "Spanish",
-                "example in English",
-                "ejemplo en español", 
-                "Rule breaker"),
-              "|"
+cat(
+    surround_join(
+        c("vowel sound",
+	  "vowel spelling",
+	  "word",
+          "IPA",
+          "some translations (algunos traducciones)",
+          "example in English",
+          "ejemplo en español"
+        ),
+        "|"
     )
 )
 
-cat(surround_join(rep("----", 6),"|"))
+cat(surround_join(rep("----", 7),"|"))
 
-silence_result <- apply(words[-1], 1, print_md_table_row)
+# Print all the rows
+# (and capture result of apply so it doesn't print to the document)
+apply_result <- apply(words, 1, print_md_table_row)
 
 # # Separate by sound
 # for (sound in sounds) {
