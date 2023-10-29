@@ -7,7 +7,7 @@ words <- read.csv("dictionary.tsv", sep="\t")
 
 sounds <- unique(words$sound)
 
-sink("dictionary.Rmd")
+sink("dictionary.md")
 
 surround_join <- function(row, joiner) {
     paste0(joiner,
@@ -67,4 +67,4 @@ silence_result <- apply(words[-1], 1, print_md_table_row)
 sink()
 
 
-render(input = "dictionary.Rmd", output_format = "html_document")
+render(input = "dictionary.md", output_format = "html_document")

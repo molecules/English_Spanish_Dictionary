@@ -1,7 +1,7 @@
-
 # English class pages
 
-[dictionary](dictionary.Rmd)  
+[dictionary](dictionary.md)  
+[dictionary (searchable)](dictionary.tsv)  
 [letter names](letter_names.md)  
 [sounds](sounds.md)  
 
