@@ -1,7 +1,7 @@
 
 # English class pages
 
-[dictionary](dictionary.md)
+[dictionary](dictionary.md)  
 [letter names](letter_names.md)  
 [sounds](sounds.md)  
 
