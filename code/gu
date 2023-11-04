@@ -1,11 +1,14 @@
 message=${1,Commit message required}
 
+cd text_only
 # Sort and parse out various versions of dictionary pages
-./code/srt
+../code/srt
 
 # Generate dictionary.md file
-./code/generate_pages.R
+../code/generate_pages.R
 
+mv *.md ../with_links/
+mv *.html ../with_links/
 git add dictionary.* *_dict.tsv
 git commit -m "$message"
 git push
