@@ -46,15 +46,17 @@ print_md_table_row <- function(row) {
     cat(dict_md_line(row, "|"))
 }
 
+print_md_table_no_links <- function(row) {
+    cat(surround_join(row, "|"))
+}
 
-process <- function(base) {
+process <- function(base, line_printer) {
     # Input
     words <- read.csv(paste0(base, ".tsv"), sep="\t")
     
     #sounds <- unique(words$sound)
     
     sink(paste0(base,".md"))
-    
     
     cat(
         surround_join(
@@ -72,15 +74,7 @@ process <- function(base) {
     
     # Print all the rows
     # (and capture result of apply so it doesn't print to the document)
-    apply_result <- apply(words, 1, print_md_table_row)
-    
-    # # Separate by sound
-    # for (sound in sounds) {
-    #    #print(glue("{sound} as in ")) 
-    #    sound_subset <- words[ words$sound == sound, ]
-    # 
-    #    apply(sound_subset[-1], 1, print_md_table_row)
-    # }
+    apply_result <- apply(words, 1, line_printer)
     
     sink()
     
@@ -91,5 +85,5 @@ process <- function(base) {
 names_to_process <- c("dictionary")
 
 for (name in names_to_process) {
-    process(name)
+    process(name, print_md_table_row)
 }
