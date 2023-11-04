@@ -3,12 +3,7 @@ library(dplyr)
 library(glue)
 library(rmarkdown)
 
-words <- read.csv("dictionary.tsv", sep="\t")
-
-sounds <- unique(words$sound)
-
-sink("dictionary.md")
-
+# FUNCTIONS
 surround_join <- function(row, joiner) {
     paste0(joiner,
        paste0(row, collapse=joiner),
@@ -17,39 +12,53 @@ surround_join <- function(row, joiner) {
     )
 }
 
-links_and_join <- function(row, joiner) {
+wikitionary_link <- function(word) {
+    glue('<a href="https://en.wiktionary.org/wiki/{word}#Pronunciation">{word}</a>')
+}
+
+translation_link <- function(sentence) {
+    glue('<a href="https://translate.google.com/?sl=en&tl=es&text=',
+         gsub(" ", "%20",sentence),
+         '&op=translate">',
+         sentence,
+         '</a>'
+    )
+}
+
+
+dict_md_line <- function(row, joiner) {
     paste0(joiner,
        paste0(
           c(
-	    row[1],
-	    row[2],
-	    glue('<a href="https://en.wiktionary.org/wiki/{row[3]}#Pronunciation">{row[3]}</a>'),
-	    row[4],
-	    row[5],
-	    glue('<a href="https://translate.google.com/?sl=en&tl=es&text=',
-		 gsub(" ", "%20",row[6]),
-		 '&op=translate">',
-		 row[6],
-		 '</a>'
-	    ),
-	    row[7]
-	  ),
+            wikitionary_link(row[3]),
+            row[4],
+            row[5],
+            translation_link(row[6]),
+            row[7]
+          ),
           collapse=joiner),
        joiner,
        "\n"
     )
 }
 
+# Input
+words <- read.csv("dictionary.tsv", sep="\t")
+
+#sounds <- unique(words$sound)
+
+sink("dictionary.md")
+
+
+
 print_md_table_row <- function(row) {
-    cat(links_and_join(row, "|"))
+    cat(dict_md_line(row, "|"))
 }
 
 cat(
     surround_join(
-        c("vowel sound",
-	  "vowel spelling",
-	  "word",
-          "IPA",
+        c("word",
+          "pronunciation (IPA)",
           "some translations (algunos traducciones)",
           "example in English",
           "ejemplo en español"
@@ -58,7 +67,7 @@ cat(
     )
 )
 
-cat(surround_join(rep("----", 7),"|"))
+cat(surround_join(rep("----", 5),"|"))
 
 # Print all the rows
 # (and capture result of apply so it doesn't print to the document)
