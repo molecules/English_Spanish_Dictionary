@@ -1,6 +1,6 @@
 |Letter|IPA|Spanish equivalent|name (for English speakers)|
 |--|--|--|--|
-|a|eɪ|ei|a, ay|
+|<a href="https://en.wiktionary.org/wiki/File:en-us-a.ogg">a</a>|eɪ|ei|a, ay|
 |b|bi|bi|bee|
 |c|si|si|cee, see|
 |d|di|di|dee|
