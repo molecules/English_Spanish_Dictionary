@@ -42,46 +42,54 @@ dict_md_line <- function(row, joiner) {
     )
 }
 
-# Input
-words <- read.csv("dictionary.tsv", sep="\t")
-
-#sounds <- unique(words$sound)
-
-sink("dictionary.md")
-
-
-
 print_md_table_row <- function(row) {
     cat(dict_md_line(row, "|"))
 }
 
-cat(
-    surround_join(
-        c("word",
-          "pronunciation (IPA)",
-          "some translations (algunos traducciones)",
-          "example in English",
-          "ejemplo en español"
-        ),
-        "|"
+
+process <- function(base) {
+    # Input
+    words <- read.csv(paste0(base, ".tsv"), sep="\t")
+    
+    #sounds <- unique(words$sound)
+    
+    sink(paste0(base,".md"))
+    
+    
+    cat(
+        surround_join(
+            c("word",
+              "pronunciation (IPA)",
+              "some translations (algunos traducciones)",
+              "example in English",
+              "ejemplo en español"
+            ),
+            "|"
+        )
     )
-)
+    
+    cat(surround_join(rep("----", 5),"|"))
+    
+    # Print all the rows
+    # (and capture result of apply so it doesn't print to the document)
+    apply_result <- apply(words, 1, print_md_table_row)
+    
+    # # Separate by sound
+    # for (sound in sounds) {
+    #    #print(glue("{sound} as in ")) 
+    #    sound_subset <- words[ words$sound == sound, ]
+    # 
+    #    apply(sound_subset[-1], 1, print_md_table_row)
+    # }
+    
+    sink()
+    
+    
+    render(input = paste0(base,".md"), output_format = "html_document")
+}
 
-cat(surround_join(rep("----", 5),"|"))
+names_to_process <- c("dictionary")
 
-# Print all the rows
-# (and capture result of apply so it doesn't print to the document)
-apply_result <- apply(words, 1, print_md_table_row)
-
-# # Separate by sound
-# for (sound in sounds) {
-#    #print(glue("{sound} as in ")) 
-#    sound_subset <- words[ words$sound == sound, ]
-# 
-#    apply(sound_subset[-1], 1, print_md_table_row)
-# }
-
-sink()
-
-
-render(input = "dictionary.md", output_format = "html_document")
+for (name in names_to_process) {
+    process(name)
+}
