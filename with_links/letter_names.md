@@ -1,6 +1,6 @@
 |Letter|sound file|IPA pronunciation|Spanish equivalent|name (for English speakers)|
 |--|--|--|--|--|
-|a|<iframe src="https://commons.wikimedia.org/wiki/File:En-us-a.ogg?embedplayer=yes" width="120" height="NaN" frameborder="0" ></iframe>|eɪ|ei|a, ay|
+|a|<a href="https://commons.wikimedia.org/wiki/File:En-us-a.ogg?embedplayer=yes">a</a>|eɪ|ei|a, ay|
 |b|<iframe src="https://commons.wikimedia.org/wiki/File:En-us-b.ogg?embedplayer=yes" width="120" height="NaN" frameborder="0" ></iframe>|bi|bi|bee|
 |c|<iframe src="https://commons.wikimedia.org/wiki/File:En-us-c.ogg?embedplayer=yes" width="120" height="NaN" frameborder="0" ></iframe>|si|si|cee, see|
 |d|<iframe src="https://commons.wikimedia.org/wiki/File:En-us-d.ogg?embedplayer=yes" width="120" height="NaN" frameborder="0" ></iframe>|di|di|dee|
