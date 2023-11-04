@@ -6,8 +6,8 @@
 |d|di|di|dee|
 |e|i|i|e, ee|
 |f|ɛf|ef|eff|
-|g|dʒi|gee|
-|h|eɪtʃ|aitch|
+|g|dʒi| | gee|
+|h|eɪtʃ| | aitch|
 |i|aɪ|ai|i, eye|
 |j|dʒeɪ| |jay|
 |k|keɪ|kei|kay|
