@@ -30,7 +30,7 @@
 |hi|hī|/haɪ/|hola (informal)|Hi! How are you?|¡Hola! ¿Como estás?|
 |high|hī|/haɪ/|alto (de altitud)|Watch the fly fly high|Mira la mosca volar alto|
 |I|ī|/aɪ/|yo|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
-|if|ĭf|/ɪf/|si|If it is to be, it is up to me|Si lo será, depende de mi|
+|if|ĭf|/ɪf/|si|If it is to be, it is up to me|Si así será, depende de mi|
 |it|ĭt|/ɪt/|(alguna cosa)lo, le, la, él, ello, ella, aquél, aquélla|Please give it to me|Por favor, damelo|
 |paint|pānt|/peɪnt/|pintar|I painted the gate in the fence|Pinté la puerta en la cerca|
 |red|rĕd|/ɹɛd/|rojo|I wear a red tie|Me llevo una corbata roja|
