@@ -50,13 +50,13 @@ print_md_table_no_links <- function(row) {
     cat(surround_join(row, "|"))
 }
 
-process <- function(base, line_printer) {
+process <- function(base_in, base_out, line_printer) {
     # Input
-    words <- read.csv(paste0(base, ".tsv"), sep="\t")
+    words <- read.csv(paste0(base_in, ".tsv"), sep="\t")
     
     #sounds <- unique(words$sound)
     
-    sink(paste0(base,".md"))
+    sink(paste0(base_out,".md"))
     
     cat(
         surround_join(
@@ -79,11 +79,12 @@ process <- function(base, line_printer) {
     sink()
     
     
-    render(input = paste0(base,".md"), output_format = "html_document")
+    render(input = paste0(base_out,".md"), output_format = "html_document")
 }
 
 names_to_process <- c("dictionary")
 
 for (name in names_to_process) {
-    process(name, print_md_table_row)
+    process(name, name, print_md_table_row)
+    process(name, paste0(name, "_no_links"), print_md_table_no_links)
 }

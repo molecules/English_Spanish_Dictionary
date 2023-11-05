@@ -7,4 +7,4 @@ tail -n +2 dictionary.tsv | sort -k3 --ignore-case >> word_spelling_dict.tsv
 head -n1 dictionary.tsv > pronunciation_dict.tsv
 tail -n +2 dictionary.tsv | sort -k4 --ignore-case >> pronunciation_dict.tsv
 
-cp sound_dict.tsv dictionary.tsv
+cp word_spelling_dict.tsv dictionary.tsv

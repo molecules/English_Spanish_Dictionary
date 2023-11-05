@@ -7,8 +7,8 @@ cd text_only
 # Generate dictionary.md file
 ../code/generate_pages.R
 
-mv *.md ../with_links/
-mv *.html ../with_links/
+mv *.md ../documents/
+mv *.html ../documents/
 git add dictionary.* *_dict.tsv
 git commit -m "$message"
 git push
