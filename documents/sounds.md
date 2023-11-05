@@ -10,7 +10,7 @@
 |<a href="https://en.wiktionary.org/wiki/green#Pronunciation">green</a>|gɹin|verde|I like to read green books|Me gusta leer libros verdes|
 |<a href="https://en.wiktionary.org/wiki/read#Pronunciation">read</a>|ɹid|leer (leo, lees)|I like to read green books|Me gusta leer libros verdes|
 |<a href="https://en.wiktionary.org/wiki/sheep#Pronunciation">sheep</a>|ʃip|oveja, ovejas|The shepherd tends his sheep|El pastor cuida a sus ovejas|
-|<a href="https://en.wiktionary.org/wiki/please#Pronunciation">please</a>|plis|por favor|Please hand me that sheet of paper|Por favor, dame aquel hoja de papel|
+|<a href="https://en.wiktionary.org/wiki/please#Pronunciation">please</a>|pliz|por favor|Please hand me that sheet of paper|Por favor, dame aquel hoja de papel|
 |<a href="https://en.wiktionary.org/wiki/sheet#Pronunciation">sheet</a>|ʃit|hoja(de papel), sábana|Please hand me that sheet of paper|Por favor, dame aquel hoja de papel|
 |<a href="https://en.wiktionary.org/wiki/seat#Pronunciation">seat</a>|sit|asiento, silla, sede|Please have a seat|Por favor, tome asiento|
 
