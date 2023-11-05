@@ -10,6 +10,7 @@
 |green|gɹin|verde|I like to read green books|Me gusta leer libros verdes|
 |read|ɹid|leer (leo, lees)|I like to read green books|Me gusta leer libros verdes|
 |sheep|ʃip|oveja, ovejas|The shepherd tends his sheep|El pastor cuida a sus ovejas|
+|please|plis|por favor|Please hand me that sheet of paper|Por favor, dame aquel hoja de papel|
 |sheet|ʃit|hoja(de papel), sábana|Please hand me that sheet of paper|Por favor, dame aquel hoja de papel|
 |seat|sit|asiento, silla, sede|Please have a seat|Por favor, tome asiento|
 
