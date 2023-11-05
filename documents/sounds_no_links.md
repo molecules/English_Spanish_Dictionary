@@ -16,6 +16,7 @@
 
 
 
+
 ## ɪ (as in ship or sit) 
 
 |English|IPA|Spanish|example in English|ejemplo en español|Rule breaker|
