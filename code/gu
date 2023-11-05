@@ -9,6 +9,9 @@ cd text_only
 
 mv *.md ../documents/
 mv *.html ../documents/
+git add ../code/generate_pages.R
+git add ../code/srt
+git add ../code/gu
 git add dictionary.* *_dict.tsv
 git add ../documents/dictionary*
 git add ../documents/sound_dict*

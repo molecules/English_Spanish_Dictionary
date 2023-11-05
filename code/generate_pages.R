@@ -33,8 +33,9 @@ dict_md_line <- function(row, joiner) {
             wikitionary_link(row[3]),
             row[4],
             row[5],
-            translation_link(row[6]),
-            row[7]
+            row[6],
+            translation_link(row[7]),
+            row[8]
           ),
           collapse=joiner),
        joiner,
@@ -47,7 +48,7 @@ print_md_table_row <- function(row) {
 }
 
 print_md_table_no_links <- function(row) {
-    cat(surround_join(row[3:7], "|"))
+    cat(surround_join(row[3:8], "|"))
 }
 
 process <- function(base_in, base_out, line_printer) {
@@ -61,6 +62,7 @@ process <- function(base_in, base_out, line_printer) {
     cat(
         surround_join(
             c("word",
+              "pronunciation (AHD)",
               "pronunciation (IPA)",
               "some translations (algunos traducciones)",
               "example in English",
@@ -70,7 +72,7 @@ process <- function(base_in, base_out, line_printer) {
         )
     )
     
-    cat(surround_join(rep("----", 5),"|"))
+    cat(surround_join(rep("----", 6),"|"))
     
     # Print all the rows
     # (and capture result of apply so it doesn't print to the document)
