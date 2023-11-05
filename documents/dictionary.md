@@ -1,4 +1,4 @@
-|word|pronunciation (AHD)|pronunciation (IPA)|some translations (algunos traducciones)|example in English|ejemplo en español|
+|word|pronunciation<BR>(AHD)|pronunciation<BR>(IPA)|some translations<BR>(algunos traducciones)|example in English|ejemplo en español|
 |----|----|----|----|----|----|
 |<a href="https://en.wiktionary.org/wiki/a#Pronunciation">a</a>|ā|/eɪ/|un, una|<a href="https://translate.google.com/?sl=en&tl=es&text=Take%20your%20car%20to%20a%20gas%20station&op=translate">Take your car to a gas station</a>|Lleva tu carro a una gasolinera|
 |<a href="https://en.wiktionary.org/wiki/babe#Pronunciation">babe</a>|bāb|/beɪb/|nena, chica muy guapa|<a href="https://translate.google.com/?sl=en&tl=es&text=My%20wife%20is%20a%20babe&op=translate">My wife is a babe</a>|mi esposa es una nena|

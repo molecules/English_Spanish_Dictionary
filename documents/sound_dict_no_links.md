@@ -1,4 +1,4 @@
-|word|pronunciation (AHD)|pronunciation (IPA)|some translations (algunos traducciones)|example in English|ejemplo en español|
+|word|pronunciation<BR>(AHD)|pronunciation<BR>(IPA)|some translations<BR>(algunos traducciones)|example in English|ejemplo en español|
 |----|----|----|----|----|----|
 |buy|bī|/baɪ/|comprar|I'll go by the store to buy fish|Pasaré por la tienda a comprar pescado|
 |by|bī|/baɪ/|por, al lado de|I'll go by the store to buy fish|Pasaré por la tienda a comprar pescado|

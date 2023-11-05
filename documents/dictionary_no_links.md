@@ -1,4 +1,4 @@
-|word|pronunciation (AHD)|pronunciation (IPA)|some translations (algunos traducciones)|example in English|ejemplo en español|
+|word|pronunciation<BR>(AHD)|pronunciation<BR>(IPA)|some translations<BR>(algunos traducciones)|example in English|ejemplo en español|
 |----|----|----|----|----|----|
 |a|ā|/eɪ/|un, una|Take your car to a gas station|Lleva tu carro a una gasolinera|
 |babe|bāb|/beɪb/|nena, chica muy guapa|My wife is a babe|mi esposa es una nena|

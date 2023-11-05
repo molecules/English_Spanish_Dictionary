@@ -62,9 +62,9 @@ process <- function(base_in, base_out, line_printer) {
     cat(
         surround_join(
             c("word",
-              "pronunciation (AHD)",
-              "pronunciation (IPA)",
-              "some translations (algunos traducciones)",
+              "pronunciation<BR>(AHD)",
+              "pronunciation<BR>(IPA)",
+              "some translations<BR>(algunos traducciones)",
               "example in English",
               "ejemplo en español"
             ),
