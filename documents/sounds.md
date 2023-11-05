@@ -32,10 +32,10 @@
 ## ɛ (as in red)
 |English|IPA|Spanish|example in English|ejemplo en español|
 |-------|---|-------|------------------|------------------|
-|<a href="https://en.wiktionary.org/wiki/set#Pronunciation">set</a>|sɛt|poner|I set the table|Puse la mesa|
 |<a href="https://en.wiktionary.org/wiki/read#Pronunciation">read</a>|ɹɛd|leer en el pasado (leí, leyo, leyeron)|Yesterday, I read the red book.|Ayer, leí el libro rojo|
 |<a href="https://en.wiktionary.org/wiki/red#Pronunciation">red</a>|ɹɛd|rojo|I wear a red tie|Me llevo una corbata roja|
-|<a href="https://en.wiktionary.org/wiki/pet#Pronunciation">pet</a>|pɛt|mascota|A pet rock does not eat|Una roca mascota no come|
+|<a href="https://en.wiktionary.org/wiki/set#Pronunciation">set</a>|sɛt|poner,colocar|I set the table|Puse la mesa|
+|<a href="https://en.wiktionary.org/wiki/pet#Pronunciation">pet</a>|pɛt|mascota|Set your pet rock on the seat|Coloca tu roca mascota en el asiento|
 
 <hr>
 

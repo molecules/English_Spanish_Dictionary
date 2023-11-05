@@ -6,6 +6,7 @@
 |i|y|baby|beɪbi|bebé|Our baby is so cute|Nuestra bebe es tan linda|
 |æ|a|bat|kæt|gato|My cat sat on a bat|Mi gato se sentó en un murciélago|
 |i|ea|beat|bit|batir, vencer, derrotar, ritmo, golpear|I beat the eggs with a fork|Bato los huevos con un tenedor|
+|i|ee|bee|bi|abeja|Bees buzz|Las abejas zumban|
 |ɪ|*ee|been|bɪn|sido, estado|I have been sick|He estado enfermo|
 |i|ee|beet|bit|remolacha|I eat beets|Como remolachas|
 |aɪ|y|buy|baɪ|comprar|I'll go by the store to buy fish|Pasaré por la tienda a comprar pescado|
@@ -23,11 +24,14 @@
 |eɪ|a_e|gate|ɡeɪt|puerta (de una cerca)|I painted the gate in the fence|Pinté la puerta en la cerca|
 |ɑ|o|God|ɡɑd|Dios|God is good|Dios es bueno|
 |ʊ|oo|good|gʊd|bien|God is good|Dios es bueno|
+|i|ee|green|gɹin|verde|The green grass grows|La hierba verde crece|
+|ɛ|ea|head|hɛd|cabeza|I lay my head on the bed||
 |aɪ|igh|high|haɪ|alto (de altitud)|Watch the fly fly high|Mira la mosca volar alto|
 |aɪ|I|I|aɪ|yo|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
 |ɪ|i|it|ɪt|(alguna cosa)lo, le, la, él, ello, ella, aquél, aquélla|Please give it to me|Por favor, damelo|
 |ɛ|e|red|ɹɛd|rojo|I wear a red tie|Me llevo una corbata roja|
 |i|ea|seat|sit|asiento, silla, sede|Please have a seat|Por favor, tome asiento|
+|i|ee|see|si|ver,mirar|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
 |ɛ|e|set|sɛt|poner|I set the table|Puse la mesa|
 |i|ee|sheep|ʃip|oveja, ovejas|The shepherd tends his sheep|El pastor cuida a sus ovejas|
 |i|ee|sheet|ʃit|hoja(de papel), sábana|Please hand me that sheet of paper|Por favor, dame aquel hoja de papel|
@@ -35,6 +39,8 @@
 |ɪ|i|sit|sɪt|sentarse|Please sit down|Por favor, sientase|
 |oʊ|ou|soul|soʊl|alma|The scriptures are food for the soul|Las Escrituras son alimento para el alma|
 |ɔ|o_e|store|stɔɹ|tienda|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
+|i|ee|street|stɹit|calle|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
+|i|ee|sweet|stɹit|calle|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
 |aɪ|i|time|taɪm|tiempo|What time is it?|¿Qué hora es?|
 |u|o|to|tu|(indica infinitivo)|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|
 |u|oo|too|tu|demasiado,tambien|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|
