@@ -33,7 +33,7 @@
 |to|/tu/|(indica infinitivo)|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|
 |two|/tu/|dos|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|
 |too|/tu/|demasiado,tambien|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|
-|bat|/kæt/|gato|My cat sat on a bat|Mi gato se sentó en un murciélago|
+|bat|/bæt/|murciélago|My cat sat on a bat|Mi gato se sentó en un murciélago|
 |cat|/kæt/|gato|My cat sat on a bat|Mi gato se sentó en un murciélago|
 |God|/ɡɑd/|Dios|God is good|Dios es bueno|
 |store|/stɔɹ/|tienda|I went by the store to buy fish|Pasé por la tienda a comprar pescado|

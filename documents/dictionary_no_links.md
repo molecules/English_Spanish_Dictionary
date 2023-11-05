@@ -4,7 +4,7 @@
 |babe|/beɪb/|nena, chica muy guapa|My wife is a babe|mi esposa es una nena|
 |baby|/beɪbi/|bebé|Our baby is so cute|Nuestra bebe es tan linda|
 |baby|/beɪbi/|bebé|Our baby is so cute|Nuestra bebe es tan linda|
-|bat|/kæt/|gato|My cat sat on a bat|Mi gato se sentó en un murciélago|
+|bat|/bæt/|murciélago|My cat sat on a bat|Mi gato se sentó en un murciélago|
 |beat|/bit/|batir, vencer, derrotar, ritmo, golpear|I beat the eggs with a fork|Bato los huevos con un tenedor|
 |bed|/bɛd/|cama|I lay my head on the bed|recosto mi cabeza en la cama|
 |bee|/bi/|abeja|Bees buzz|Las abejas zumban|
