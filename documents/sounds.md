@@ -6,7 +6,6 @@
 |<a href="https://en.wiktionary.org/wiki/eat#Pronunciation">eat</a>|it|comer|I eat beets|Como remolachas|
 |<a href="https://en.wiktionary.org/wiki/beet#Pronunciation">beet</a>|bit|remolacha|I eat beets|Como remolachas|
 |<a href="https://en.wiktionary.org/wiki/beat#Pronunciation">beat</a>|bit|batir, vencer, derrotar, ritmo, golpear|I beat the eggs with a fork|Bato los huevos con un tenedor|
-|<a href="https://en.wiktionary.org/wiki/feat#Pronunciation">feat</a>|fit|logro|Winning a gold medal is a great feat|Ganando el premio oro es un gran logro|
 |<a href="https://en.wiktionary.org/wiki/feet#Pronunciation">feet</a>|fit|pies|I stand on my feet|Me pongo de pie|
 |<a href="https://en.wiktionary.org/wiki/green#Pronunciation">green</a>|gɹin|verde|I like to read green books|Me gusta leer libros verdes|
 |<a href="https://en.wiktionary.org/wiki/read#Pronunciation">read</a>|ɹid|leer (leo, lees)|I like to read green books|Me gusta leer libros verdes|

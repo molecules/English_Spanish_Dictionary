@@ -6,7 +6,6 @@
 |eat|it|comer|I eat beets|Como remolachas|
 |beet|bit|remolacha|I eat beets|Como remolachas|
 |beat|bit|batir, vencer, derrotar, ritmo, golpear|I beat the eggs with a fork|Bato los huevos con un tenedor|
-|feat|fit|logro|Winning a gold medal is a great feat|Ganando el premio oro es un gran logro|
 |feet|fit|pies|I stand on my feet|Me pongo de pie|
 |green|gɹin|verde|I like to read green books|Me gusta leer libros verdes|
 |read|ɹid|leer (leo, lees)|I like to read green books|Me gusta leer libros verdes|
