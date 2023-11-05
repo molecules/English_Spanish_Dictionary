@@ -88,3 +88,5 @@ for (name in names_to_process) {
     process(name, name, print_md_table_row)
     process(name, paste0(name, "_no_links"), print_md_table_no_links)
 }
+
+render(input = "../documents/sounds_no_links.md", output_format = "html_document")
