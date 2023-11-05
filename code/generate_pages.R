@@ -82,7 +82,7 @@ process <- function(base_in, base_out, line_printer) {
     render(input = paste0(base_out,".md"), output_format = "html_document")
 }
 
-names_to_process <- c("dictionary")
+names_to_process <- c("dictionary", "sound_dict")
 
 for (name in names_to_process) {
     process(name, name, print_md_table_row)
