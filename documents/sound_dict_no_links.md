@@ -1,5 +1,6 @@
 |word|pronunciation (IPA)|some translations (algunos traducciones)|example in English|ejemplo en español|
 |----|----|----|----|----|
+|hi|haɪ|hola (informal)|Hi! How are you?|¡Hola! ¿Como estás?|
 |I|aɪ|yo|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
 |time|taɪm|tiempo|What time is it?|¿Qué hora es?|
 |high|haɪ|alto (de altitud)|Watch the fly fly high|Mira la mosca volar alto|
@@ -9,6 +10,7 @@
 |bye|baɪ|adiós|Bye! I'm going by the store to buy fish|¡Adiós! Voy por la tienda a comprar pescado|
 |a|eɪ|un, una|Take your car to a gas station|Lleva tu carro a una gasolinera|
 |baby|beɪbi|bebé|Our baby is so cute|Nuestra bebe es tan linda|
+|paint|peɪnt|pintar|I painted the gate in the fence|Pinté la puerta en la cerca|
 |babe|beɪb|nena, chica muy guapa|My wife is a babe|mi esposa es una nena|
 |gate|ɡeɪt|puerta (de una cerca)|I painted the gate in the fence|Pinté la puerta en la cerca|
 |beat|bit|batir, vencer, derrotar, ritmo, golpear|I beat the eggs with a fork|Bato los huevos con un tenedor|

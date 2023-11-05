@@ -1,5 +1,6 @@
 |word|pronunciation (IPA)|some translations (algunos traducciones)|example in English|ejemplo en español|
 |----|----|----|----|----|
+|<a href="https://en.wiktionary.org/wiki/hi#Pronunciation">hi</a>|haɪ|hola (informal)|<a href="https://translate.google.com/?sl=en&tl=es&text=Hi!%20How%20are%20you?&op=translate">Hi! How are you?</a>|¡Hola! ¿Como estás?|
 |<a href="https://en.wiktionary.org/wiki/I#Pronunciation">I</a>|aɪ|yo|<a href="https://translate.google.com/?sl=en&tl=es&text=I%20went%20by%20the%20store%20to%20buy%20fish&op=translate">I went by the store to buy fish</a>|Pasé por la tienda a comprar pescado|
 |<a href="https://en.wiktionary.org/wiki/time#Pronunciation">time</a>|taɪm|tiempo|<a href="https://translate.google.com/?sl=en&tl=es&text=What%20time%20is%20it?&op=translate">What time is it?</a>|¿Qué hora es?|
 |<a href="https://en.wiktionary.org/wiki/high#Pronunciation">high</a>|haɪ|alto (de altitud)|<a href="https://translate.google.com/?sl=en&tl=es&text=Watch%20the%20fly%20fly%20high&op=translate">Watch the fly fly high</a>|Mira la mosca volar alto|
@@ -9,6 +10,7 @@
 |<a href="https://en.wiktionary.org/wiki/bye#Pronunciation">bye</a>|baɪ|adiós|<a href="https://translate.google.com/?sl=en&tl=es&text=Bye!%20I'm%20going%20by%20the%20store%20to%20buy%20fish&op=translate">Bye! I'm going by the store to buy fish</a>|¡Adiós! Voy por la tienda a comprar pescado|
 |<a href="https://en.wiktionary.org/wiki/a#Pronunciation">a</a>|eɪ|un, una|<a href="https://translate.google.com/?sl=en&tl=es&text=Take%20your%20car%20to%20a%20gas%20station&op=translate">Take your car to a gas station</a>|Lleva tu carro a una gasolinera|
 |<a href="https://en.wiktionary.org/wiki/baby#Pronunciation">baby</a>|beɪbi|bebé|<a href="https://translate.google.com/?sl=en&tl=es&text=Our%20baby%20is%20so%20cute&op=translate">Our baby is so cute</a>|Nuestra bebe es tan linda|
+|<a href="https://en.wiktionary.org/wiki/paint#Pronunciation">paint</a>|peɪnt|pintar|<a href="https://translate.google.com/?sl=en&tl=es&text=I%20painted%20the%20gate%20in%20the%20fence&op=translate">I painted the gate in the fence</a>|Pinté la puerta en la cerca|
 |<a href="https://en.wiktionary.org/wiki/babe#Pronunciation">babe</a>|beɪb|nena, chica muy guapa|<a href="https://translate.google.com/?sl=en&tl=es&text=My%20wife%20is%20a%20babe&op=translate">My wife is a babe</a>|mi esposa es una nena|
 |<a href="https://en.wiktionary.org/wiki/gate#Pronunciation">gate</a>|ɡeɪt|puerta (de una cerca)|<a href="https://translate.google.com/?sl=en&tl=es&text=I%20painted%20the%20gate%20in%20the%20fence&op=translate">I painted the gate in the fence</a>|Pinté la puerta en la cerca|
 |<a href="https://en.wiktionary.org/wiki/beat#Pronunciation">beat</a>|bit|batir, vencer, derrotar, ritmo, golpear|<a href="https://translate.google.com/?sl=en&tl=es&text=I%20beat%20the%20eggs%20with%20a%20fork&op=translate">I beat the eggs with a fork</a>|Bato los huevos con un tenedor|
