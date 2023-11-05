@@ -45,6 +45,7 @@
 |fit|fĭt|/fɪt/|ajustar, adaptar, caber, en forma|My feet fit in my shoes|Mis pies caben en mis zapatos|
 |ship|shĭp|/ʃɪp/|barco, navio|I traveled by ship|Viajé en barco|
 |sit|sĭt|/sɪt/|sentarse|Please sit down|Por favor, sientase|
+|if|ĭf|/ɪf/|si|If it is to be, it is up to me|Si lo será, depende de mi|
 |it|ĭt|/ɪt/|(alguna cosa)lo, le, la, él, ello, ella, aquél, aquélla|Please give it to me|Por favor, damelo|
 |foot|fo͝ot|/fʊt/|pie|I stand on one foot|Estoy parado en un pie|
 |good|go͝od|/gʊd/|bien|God is good|Dios es bueno|
