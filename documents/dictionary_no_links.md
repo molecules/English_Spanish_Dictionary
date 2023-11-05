@@ -6,6 +6,7 @@
 |i|y|baby|beɪbi|bebé|Our baby is so cute|Nuestra bebe es tan linda|
 |æ|a|bat|kæt|gato|My cat sat on a bat|Mi gato se sentó en un murciélago|
 |i|ea|beat|bit|batir, vencer, derrotar, ritmo, golpear|I beat the eggs with a fork|Bato los huevos con un tenedor|
+|ɛ|e|bed|bɛd|cama|I lay my head on the bed|recosto mi cabeza en la cama|
 |i|ee|bee|bi|abeja|Bees buzz|Las abejas zumban|
 |ɪ|*ee|been|bɪn|sido, estado|I have been sick|He estado enfermo|
 |i|ee|beet|bit|remolacha|I eat beets|Como remolachas|
@@ -25,7 +26,7 @@
 |ɑ|o|God|ɡɑd|Dios|God is good|Dios es bueno|
 |ʊ|oo|good|gʊd|bien|God is good|Dios es bueno|
 |i|ee|green|gɹin|verde|The green grass grows|La hierba verde crece|
-|ɛ|ea|head|hɛd|cabeza|I lay my head on the bed||
+|ɛ|ea|head|hɛd|cabeza|I lay my head on the bed|recosto mi cabeza en la cama|
 |aɪ|igh|high|haɪ|alto (de altitud)|Watch the fly fly high|Mira la mosca volar alto|
 |aɪ|I|I|aɪ|yo|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
 |ɪ|i|it|ɪt|(alguna cosa)lo, le, la, él, ello, ella, aquél, aquélla|Please give it to me|Por favor, damelo|
