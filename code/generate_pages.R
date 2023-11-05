@@ -47,7 +47,7 @@ print_md_table_row <- function(row) {
 }
 
 print_md_table_no_links <- function(row) {
-    cat(surround_join(row, "|"))
+    cat(surround_join(row[3:7], "|"))
 }
 
 process <- function(base_in, base_out, line_printer) {
