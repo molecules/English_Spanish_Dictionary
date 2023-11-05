@@ -1,5 +1,5 @@
 |word|pronunciation (AHD)|pronunciation (IPA)|some translations (algunos traducciones)|example in English|ejemplo en español|
-|----|----|----|----|----|
+|----|----|----|----|----|----|
 |<a href="https://en.wiktionary.org/wiki/buy#Pronunciation">buy</a>|bī|/baɪ/|comprar|<a href="https://translate.google.com/?sl=en&tl=es&text=I'll%20go%20by%20the%20store%20to%20buy%20fish&op=translate">I'll go by the store to buy fish</a>|Pasaré por la tienda a comprar pescado|
 |<a href="https://en.wiktionary.org/wiki/by#Pronunciation">by</a>|bī|/baɪ/|por, al lado de|<a href="https://translate.google.com/?sl=en&tl=es&text=I'll%20go%20by%20the%20store%20to%20buy%20fish&op=translate">I'll go by the store to buy fish</a>|Pasaré por la tienda a comprar pescado|
 |<a href="https://en.wiktionary.org/wiki/bye#Pronunciation">bye</a>|bī|/baɪ/|adiós|<a href="https://translate.google.com/?sl=en&tl=es&text=Bye!%20I'm%20going%20by%20the%20store%20to%20buy%20fish&op=translate">Bye! I'm going by the store to buy fish</a>|¡Adiós! Voy por la tienda a comprar pescado|

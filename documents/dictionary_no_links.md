@@ -1,5 +1,5 @@
 |word|pronunciation (AHD)|pronunciation (IPA)|some translations (algunos traducciones)|example in English|ejemplo en español|
-|----|----|----|----|----|
+|----|----|----|----|----|----|
 |a|ā|/eɪ/|un, una|Take your car to a gas station|Lleva tu carro a una gasolinera|
 |babe|bāb|/beɪb/|nena, chica muy guapa|My wife is a babe|mi esposa es una nena|
 |baby|bā'bē|/ˈbeɪbi/|bebé|Our baby is so cute|Nuestra bebe es tan linda|
