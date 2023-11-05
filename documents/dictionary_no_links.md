@@ -27,6 +27,7 @@
 |good|gʊd|bien|God is good|Dios es bueno|
 |green|gɹin|verde|The green grass grows|La hierba verde crece|
 |head|hɛd|cabeza|I lay my head on the bed|recosto mi cabeza en la cama|
+|hi|haɪ|hola (informal)|Hi! How are you?|¡Hola! ¿Como estás?|
 |high|haɪ|alto (de altitud)|Watch the fly fly high|Mira la mosca volar alto|
 |I|aɪ|yo|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
 |it|ɪt|(alguna cosa)lo, le, la, él, ello, ella, aquél, aquélla|Please give it to me|Por favor, damelo|
