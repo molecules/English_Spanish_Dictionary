@@ -31,6 +31,7 @@
 |high|haɪ|alto (de altitud)|Watch the fly fly high|Mira la mosca volar alto|
 |I|aɪ|yo|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
 |it|ɪt|(alguna cosa)lo, le, la, él, ello, ella, aquél, aquélla|Please give it to me|Por favor, damelo|
+|paint|peɪnt|pintar|I painted the gate in the fence|Pinté la puerta en la cerca|
 |red|ɹɛd|rojo|I wear a red tie|Me llevo una corbata roja|
 |seat|sit|asiento, silla, sede|Please have a seat|Por favor, tome asiento|
 |see|si|ver,mirar|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
