@@ -42,7 +42,7 @@
 ## aɪ (as in time)
 |English|IPA|Spanish|example in English|ejemplo en español|
 |-------|---|-------|------------------|------------------|
-|bye|baɪ|adiós|||
+|bye|baɪ|adiós|Bye! I'm going by the store to buy fish|¡Adiós! Voy por la tienda a comprar pescado|
 |by|baɪ|por, al lado de|I'll go by the store to buy fish|Pasaré por la tienda a comprar pescado|
 |buy|baɪ|comprar|I'll go by the store to buy fish|I'll go by the store to buy fish|
 |fly|flaɪ|volar, mosca|Watch the fly fly high|Mira la mosca volar alto|
