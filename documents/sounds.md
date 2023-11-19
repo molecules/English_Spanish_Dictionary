@@ -67,3 +67,13 @@
 |-------|---|---|-------|------------------|------------------|
 |<a href="https://en.wiktionary.org/wiki/foot#Pronunciation">foot</a>|fo͝ot|/fʊt/|pie|<a href="https://translate.google.com/?sl=en&tl=es&text=I%20stand%20on%20one%20foot&op=translate">I stand on one foot</a>|Estoy parado en un pie|
 |<a href="https://en.wiktionary.org/wiki/good#Pronunciation">good</a>|go͝od|/gʊd/|bien|<a href="https://translate.google.com/?sl=en&tl=es&text=God%20is%20good&op=translate">God is good</a>|Dios es bueno|
+
+## o as in go, hello
+|English|AHD|IPA|Spanish|example in English|ejemplo en español|
+|-------|---|---|-------|------------------|------------------|
+|<a href="https://en.wiktionary.org/wiki/go#Pronunciation">go</a>|gō|/goʊ/|ir|<a href="https://translate.google.com/?sl=en&tl=es&text=Let's%20go%20to%20the%20park&op=translate">Let's go to the park</a>|Vamanos al parque|
+
+## o as in dog
+|English|AHD|IPA|Spanish|example in English|ejemplo en español|
+|-------|---|---|-------|------------------|------------------|
+|<a href="https://en.wiktionary.org/wiki/dog#Pronunciation">dog</a>|dôg|/dɑg/|perro|<a href="https://translate.google.com/?sl=en&tl=es&text=A%20dog%20is%20a%20friend&op=translate">A dog is a friend</a>|Un perro es un amigo|

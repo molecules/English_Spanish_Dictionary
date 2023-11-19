@@ -67,3 +67,13 @@
 |-------|---|---|-------|------------------|------------------|
 ||Estoy parado en un pie|
 ||Dios es bueno|
+
+## o as in go, hello
+|English|AHD|IPA|Spanish|example in English|ejemplo en español|
+|-------|---|---|-------|------------------|------------------|
+||Vamanos al parque|
+
+## o as in dog
+|English|AHD|IPA|Spanish|example in English|ejemplo en español|
+|-------|---|---|-------|------------------|------------------|
+||Un perro es un amigo|
