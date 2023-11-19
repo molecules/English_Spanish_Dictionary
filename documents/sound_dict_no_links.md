@@ -31,6 +31,7 @@
 |soul|sōl|/soʊl/|alma|The scriptures are food for the soul|Las Escrituras son alimento para el alma|
 |boot|bo͞ot|/but/|bota|Boots are my favorite shoes|Las botas son mis zapatos favoritos|
 |food|fo͞od|/fud/|comida|The scriptures are food for the soul|Las Escrituras son alimento para el alma|
+|noon|no͞on|/fud/|mediodía|Lunch is at noon|El almuerzo está al mediodía|
 |to|to͞o|/tu/|(indica infinitivo)|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|
 |two|to͞o|/tu/|dos|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|
 |too|to͞o|/tu/|demasiado,tambien|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|

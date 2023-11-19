@@ -33,6 +33,7 @@
 |I|ī|/aɪ/|yo|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
 |if|ĭf|/ɪf/|si|If it is to be, it is up to me|Si así será, depende de mi|
 |it|ĭt|/ɪt/|(alguna cosa)lo, le, la, él, ello, ella, aquél, aquélla|Please give it to me|Por favor, damelo|
+|noon|no͞on|/fud/|mediodía|Lunch is at noon|El almuerzo está al mediodía|
 |paint|pānt|/peɪnt/|pintar|I painted the gate in the fence|Pinté la puerta en la cerca|
 |red|rĕd|/ɹɛd/|rojo|I wear a red tie|Me llevo una corbata roja|
 |seat|sēt|/sit/|asiento, silla, sede|Please have a seat|Por favor, tome asiento|
