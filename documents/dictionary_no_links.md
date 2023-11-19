@@ -15,6 +15,7 @@
 |by|bī|/baɪ/|por, al lado de|I'll go by the store to buy fish|Pasaré por la tienda a comprar pescado|
 |bye|bī|/baɪ/|adiós|Bye! I'm going by the store to buy fish|¡Adiós! Voy por la tienda a comprar pescado|
 |cat|kăt|/kæt/|gato|My cat sat on a bat|Mi gato se sentó en un murciélago|
+|dog|dôg|/dɑg/|perro|A dog is a friend|Un perro es un amigo|
 |eat|ēt|/it/|comer|I eat beets|Como remolachas|
 |feat|fēt|/fit/|logro|Winning a gold medal is a great feat|Ganando el premio oro es un gran logro|
 |feet|fēt|/fit/|ajustar, adaptar, caber, en forma|My feet fit in my shoes|Mis pies caben en mis zapatos|
@@ -24,6 +25,7 @@
 |foot|fo͝ot|/fʊt/|pie|I stand on one foot|Estoy parado en un pie|
 |fork|fôrk|/foɹk/|tenedor|I beat the eggs with a fork|Bato los huevos con un tenedor|
 |gate|gāt|/ɡeɪt/|puerta (de una cerca)|I painted the gate in the fence|Pinté la puerta en la cerca|
+|go|gō|/goʊ/|ir|Let's go to the park|Vamanos al parque|
 |God|gäd|/ɡɑd/|Dios|God is good|Dios es bueno|
 |good|go͝od|/gʊd/|bien|God is good|Dios es bueno|
 |green|grēn|/gɹin/|verde|The green grass grows|La hierba verde crece|

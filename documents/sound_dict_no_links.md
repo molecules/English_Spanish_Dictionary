@@ -28,6 +28,7 @@
 |seat|sēt|/sit/|asiento, silla, sede|Please have a seat|Por favor, tome asiento|
 |eat|ēt|/it/|comer|I eat beets|Como remolachas|
 |fork|fôrk|/foɹk/|tenedor|I beat the eggs with a fork|Bato los huevos con un tenedor|
+|go|gō|/goʊ/|ir|Let's go to the park|Vamanos al parque|
 |soul|sōl|/soʊl/|alma|The scriptures are food for the soul|Las Escrituras son alimento para el alma|
 |boot|bo͞ot|/but/|bota|Boots are my favorite shoes|Las botas son mis zapatos favoritos|
 |food|fo͞od|/fud/|comida|The scriptures are food for the soul|Las Escrituras son alimento para el alma|
@@ -37,6 +38,7 @@
 |too|to͞o|/tu/|demasiado,tambien|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|
 |bat|băt|/bæt/|murciélago|My cat sat on a bat|Mi gato se sentó en un murciélago|
 |cat|kăt|/kæt/|gato|My cat sat on a bat|Mi gato se sentó en un murciélago|
+|dog|dôg|/dɑg/|perro|A dog is a friend|Un perro es un amigo|
 |God|gäd|/ɡɑd/|Dios|God is good|Dios es bueno|
 |store|stôr|/stɔɹ/|tienda|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
 |bed|bĕd|/bɛd/|cama|I lay my head on the bed|recosto mi cabeza en la cama|
