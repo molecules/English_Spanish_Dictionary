@@ -10,6 +10,7 @@
 |bee|bē|/bi/|abeja|Bees buzz|Las abejas zumban|
 |been|bĭn|/bɪn/|sido, estado|I have been sick|He estado enfermo|
 |beet|bēt|/bit/|remolacha|I eat beets|Como remolachas|
+|boot|bo͞ot|/but/|bota|Boots are my favorite shoes|Las botas son mis zapatos favoritos|
 |buy|bī|/baɪ/|comprar|I'll go by the store to buy fish|Pasaré por la tienda a comprar pescado|
 |by|bī|/baɪ/|por, al lado de|I'll go by the store to buy fish|Pasaré por la tienda a comprar pescado|
 |bye|bī|/baɪ/|adiós|Bye! I'm going by the store to buy fish|¡Adiós! Voy por la tienda a comprar pescado|
@@ -46,6 +47,6 @@
 |street|strēt|/stɹit/|calle|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
 |sweet|swēt|/stɹit/|calle|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
 |time|tīm|/taɪm/|tiempo|What time is it?|¿Qué hora es?|
-|to|tū|/tu/|(indica infinitivo)|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|
-|too|tū|/tu/|demasiado,tambien|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|
-|two|tū|/tu/|dos|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|
+|to|to͞o|/tu/|(indica infinitivo)|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|
+|too|to͞o|/tu/|demasiado,tambien|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|
+|two|to͞o|/tu/|dos|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|

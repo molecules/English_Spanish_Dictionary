@@ -50,3 +50,15 @@
 |<a href="https://en.wiktionary.org/wiki/high#Pronunciation">high</a>|/haɪ/|alto (de altitud)|Watch the fly fly high|Mira la mosca volar alto|
 |<a href="https://en.wiktionary.org/wiki/I#Pronunciation">I</a>|/aɪ/|yo|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
 |<a href="https://en.wiktionary.org/wiki/time#Pronunciation">time</a>|/taɪm/|tiempo|What time is it?|¿Qué hora es?|
+
+## o͞o as in food
+|<a href="https://en.wiktionary.org/wiki/food#Pronunciation">food</a>|fo͞od|/fud/|comida|<a href="https://translate.google.com/?sl=en&tl=es&text=The%20scriptures%20are%20food%20for%20the%20soul&op=translate">The scriptures are food for the soul</a>|Las Escrituras son alimento para el alma|
+|<a href="https://en.wiktionary.org/wiki/to#Pronunciation">to</a>|to͞o|/tu/|(indica infinitivo)|<a href="https://translate.google.com/?sl=en&tl=es&text=I%20would%20like%20two%20sandwiches%20if%20it's%20not%20too%20much%20to%20ask&op=translate">I would like two sandwiches if it's not too much to ask</a>|Me gustaría dos sándwiches si no es demasiado pedir|
+|<a href="https://en.wiktionary.org/wiki/too#Pronunciation">too</a>|to͞o|/tu/|demasiado,tambien|<a href="https://translate.google.com/?sl=en&tl=es&text=I%20would%20like%20two%20sandwiches%20if%20it's%20not%20too%20much%20to%20ask&op=translate">I would like two sandwiches if it's not too much to ask</a>|Me gustaría dos sándwiches si no es demasiado pedir|
+|<a href="https://en.wiktionary.org/wiki/two#Pronunciation">two</a>|to͞o|/tu/|dos|<a href="https://translate.google.com/?sl=en&tl=es&text=I%20would%20like%20two%20sandwiches%20if%20it's%20not%20too%20much%20to%20ask&op=translate">I would like two sandwiches if it's not too much to ask</a>|Me gustaría dos sándwiches si no es demasiado pedir|
+|<a href="https://en.wiktionary.org/wiki/boot#Pronunciation">boot</a>|bo͞ot|/but/|bota|<a href="https://translate.google.com/?sl=en&tl=es&text=Boots%20are%20my%20favorite%20shoes&op=translate">Boots are my favorite shoes</a>|Las botas son mis zapatos favoritos|
+
+
+## o͝o as in foot or good
+|<a href="https://en.wiktionary.org/wiki/foot#Pronunciation">foot</a>|fo͝ot|/fʊt/|pie|<a href="https://translate.google.com/?sl=en&tl=es&text=I%20stand%20on%20one%20foot&op=translate">I stand on one foot</a>|Estoy parado en un pie|
+|<a href="https://en.wiktionary.org/wiki/good#Pronunciation">good</a>|go͝od|/gʊd/|bien|<a href="https://translate.google.com/?sl=en&tl=es&text=God%20is%20good&op=translate">God is good</a>|Dios es bueno|

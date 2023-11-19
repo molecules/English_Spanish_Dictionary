@@ -50,3 +50,15 @@
 |high|/haɪ/|alto (de altitud)|Watch the fly fly high|Mira la mosca volar alto|
 |I|/aɪ/|yo|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
 |time|/taɪm/|tiempo|What time is it?|¿Qué hora es?|
+
+## o͞o as in food
+||Las Escrituras son alimento para el alma|
+||Me gustaría dos sándwiches si no es demasiado pedir|
+||Me gustaría dos sándwiches si no es demasiado pedir|
+||Me gustaría dos sándwiches si no es demasiado pedir|
+||Las botas son mis zapatos favoritos|
+
+
+## o͝o as in foot or good
+||Estoy parado en un pie|
+||Dios es bueno|
