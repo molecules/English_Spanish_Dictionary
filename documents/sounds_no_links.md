@@ -52,6 +52,8 @@
 |time|/taɪm/|tiempo|What time is it?|¿Qué hora es?|
 
 ## o͞o as in food
+|English|AHD|IPA|Spanish|example in English|ejemplo en español|
+|-------|---|---|-------|------------------|------------------|
 ||Las Escrituras son alimento para el alma|
 ||Me gustaría dos sándwiches si no es demasiado pedir|
 ||Me gustaría dos sándwiches si no es demasiado pedir|
@@ -60,5 +62,7 @@
 
 
 ## o͝o as in foot or good
+|English|AHD|IPA|Spanish|example in English|ejemplo en español|
+|-------|---|---|-------|------------------|------------------|
 ||Estoy parado en un pie|
 ||Dios es bueno|
