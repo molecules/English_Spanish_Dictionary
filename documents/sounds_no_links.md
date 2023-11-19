@@ -54,11 +54,11 @@
 ## o͞o as in food
 |English|AHD|IPA|Spanish|example in English|ejemplo en español|
 |-------|---|---|-------|------------------|------------------|
+||Las botas son mis zapatos favoritos|
 ||Las Escrituras son alimento para el alma|
 ||Me gustaría dos sándwiches si no es demasiado pedir|
 ||Me gustaría dos sándwiches si no es demasiado pedir|
 ||Me gustaría dos sándwiches si no es demasiado pedir|
-||Las botas son mis zapatos favoritos|
 
 
 ## o͝o as in foot or good
