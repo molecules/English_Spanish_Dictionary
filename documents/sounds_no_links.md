@@ -56,6 +56,7 @@
 |-------|---|---|-------|------------------|------------------|
 ||Las botas son mis zapatos favoritos|
 ||Las Escrituras son alimento para el alma|
+||El almuerzo está al mediodía|
 ||Me gustaría dos sándwiches si no es demasiado pedir|
 ||Me gustaría dos sándwiches si no es demasiado pedir|
 ||Me gustaría dos sándwiches si no es demasiado pedir|
