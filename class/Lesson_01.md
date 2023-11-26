@@ -1,0 +1,13 @@
+## English Connect Lesson 1 
+<a href="https://rise.articulate.com/share/itxCd1fxmvi8vmPwszG1As-C3eOBBLSA#/lessons/stOm3vVUKm91WkU-Y1UlTDFoxZM1q4lK">Lesson 1 (official site)</a>
+
+
+## Alphabet help 
+
+<a href="https://americanenglish.state.gov/resources/color-vowel-chart">"Color Vowel Chart" (pairs of words that share vowel sounds)</a>
+
+
+
+## Video
+
+<a href="https://www.churchofjesuschrist.org/study/manual/new-testament-stories-for-young-readers/24-jesus-was-born?lang=eng">Jesus was born</a>
