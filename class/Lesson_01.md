@@ -8,6 +8,8 @@
 
 
 
-## Video
+## Videos
 
 <a href="https://www.churchofjesuschrist.org/study/manual/new-testament-stories-for-young-readers/24-jesus-was-born?lang=eng">Jesus was born</a>
+
+<a href="https://www.youtube.com/watch?v=PtGQnPlK_Ac&t">Think versus Thing</a>
