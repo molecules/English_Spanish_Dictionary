@@ -24,11 +24,11 @@
 
 ## Pronouns
 
-|Subject| object | possessive adjective | possessive adjective | 
+|Subject| possessive adjective | possessive adjective | object |
 |-------|---|---|---|
-|I      | me | my | mine |
-|He<BR>She<BR>It | him<BR>her<BR>it | his<BR>her<BR>its| his<BR>her<BR>its|
-|You<BR>We<BR>They | you<BR>us<BR>them | your<BR>our<BR>their| yours<BR>ours<BR>theirs|
+|I      | my | mine | me |
+|He<BR>She<BR>It | his<BR>her<BR>its| his<BR>her<BR>its| him<BR>her<BR>it |
+|You<BR>We<BR>They | your<BR>our<BR>their| yours<BR>ours<BR>theirs| you<BR>us<BR>them |
 
 
 ## Inverting the meaning of a sentence. Invertir el significado de una oración.
