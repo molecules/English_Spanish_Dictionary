@@ -22,6 +22,15 @@
 
 (Chart from the "Learn Easy English" video <a href="https://www.youtube.com/watch?v=YAELd7I6-7Y>">"AM, IS & ARE"</a>)  
 
+## Possessive (possesivos)
+
+|Subject| possessive adjective | possessive adjective | 
+|-------|---|---|
+|I      | my | mine |
+|He<BR>She<BR>It | his<BR>her<BR>its| his<BR>her<BR>its|
+|You<BR>We<BR>They | your<BR>our<BR>their| yours<BR>ours<BR>theirs|
+
+
 ## Inverting the meaning of a sentence. Invertir el significado de una oración.
 
 When we want to invert the meaning of a sentence...  
