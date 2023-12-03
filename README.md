@@ -1,6 +1,7 @@
 # Lesson pages
 
 [Lesson 01](class/Lesson_01.md)  
+[Lesson 02](class/Lesson_02.md)  
 
 # English class pages
 
