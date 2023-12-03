@@ -16,9 +16,9 @@
 
 |Subject| + | - | Question |
 |-------|---|---|----------|
-|I      | am<BR>'m| am not<BR>'m not | Am I ...? |
-|He<BR>She<BR>It | is<BR>'s| is not<BR>'s not | Is he ...?<BR> Is she ...?<BR> Is it ...? |
-|You<BR>We<BR>They | are<BR>'re| are not<BR>'re not | Are you ...?<BR> Are we ...?<BR> Are they ...? |
+|I (yo)     | am<BR>'m| am not<BR>'m not | Am I ...? |
+|He (él)<BR>She (ella)<BR>It | is<BR>'s| is not<BR>'s not | Is he ...?<BR> Is she ...?<BR> Is it ...? |
+|You (tú/Usted/ustedes)<BR>We (nosotros)<BR>They (ellos)| are<BR>'re| are not<BR>'re not | Are you ...?<BR> Are we ...?<BR> Are they ...? |
 
 (Chart from the "Learn Easy English" video <a href="https://www.youtube.com/watch?v=YAELd7I6-7Y>">"AM, IS & ARE"</a>)  
 
