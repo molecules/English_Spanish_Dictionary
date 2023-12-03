@@ -13,7 +13,7 @@
 <a href="https://www.churchofjesuschrist.org/learn/mobile-applications/gospel-library">Gospel Library</a>
 
 
-## Videos
+## am, is, are
 
 |Subject| + | - | Question |
 |-------|---|---|----------|
@@ -22,4 +22,22 @@
 |You<BR>We<BR>They | are<BR>'re| are not<BR>'re not | Are you ...?<BR> Are we ...?<BR> Are they ...? |
 
 (Chart from the "Learn Easy English" video <a href="https://www.youtube.com/watch?v=YAELd7I6-7Y>">"AM, IS & ARE"</a>)
+## Inverting the meaning of a sentence. Invertir el significado de una oración.
 
+When we want to invert the meaning of a sentence, in Spanish, we add the word "no", but in English we add the word "not" or "do not".  
+Cuando queremos invertir el significado de una oración, en español, añadimos la palabra "no", pero en inglès, añadimos la palabra "not" o las palabras "do not".  
+
+I am happy.  
+Estoy feliz.  
+
+I am not happy.  
+No estoy feliz.  
+
+I do not like green eggs and ham.  
+No me gusta los huevos verdes y jamón.  
+
+I bike to work.  
+Voy en bicicleta al trabajo.  
+
+I do not bike to work.  
+No voy en bicicleta al trabajo.  
