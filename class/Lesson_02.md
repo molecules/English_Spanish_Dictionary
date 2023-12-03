@@ -26,7 +26,7 @@
 
 |Subject| possessive adjective | possessive adjective | object |
 |-------|---|---|---|
-|I      | my | mine | me |
+|I      | my (mi) | mine (mio) | me (mi) |
 |He<BR>She<BR>It | his<BR>her<BR>its| his<BR>her<BR>its| him<BR>her<BR>it |
 |You<BR>We<BR>They | your<BR>our<BR>their| yours<BR>ours<BR>theirs| you<BR>us<BR>them |
 
