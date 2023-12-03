@@ -21,7 +21,7 @@
 |<a href="https://commons.wikimedia.org/wiki/File:En-us-s.ogg?embedplayer=yes">s</a>|ɛs|es|ess|
 |<a href="https://commons.wikimedia.org/wiki/File:En-us-t.ogg?embedplayer=yes">t</a>|ti|ti|tee|
 |<a href="https://commons.wikimedia.org/wiki/File:En-us-u.ogg?embedplayer=yes">u</a>|*ju|*yu|u|
-|<a href="https://commons.wikimedia.org/wiki/File:En-us-v.ogg?embedplayer=yes">v</a>|vi|vi|vee|
+|<a href="https://commons.wikimedia.org/wiki/File:En-us-v.ogg?embedplayer=yes">v</a> <a href="https://www.youtube.com/watch?v=e8NbVrMGrh8">video on v versus w</a>|vi|vi|vee|
 |<a href="https://commons.wikimedia.org/wiki/File:En-us-w.ogg?embedplayer=yes">w</a>|dʌ bəl ju| |double-u|
 |<a href="https://commons.wikimedia.org/wiki/File:En-us-x.ogg?embedplayer=yes">x</a>|ɛks| |ex|
 |<a href="https://commons.wikimedia.org/wiki/File:En-us-y.ogg?embedplayer=yes">y</a>|waɪ| |why|
