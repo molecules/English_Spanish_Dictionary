@@ -2,6 +2,7 @@
 
 [Lesson 01](class/Lesson_01.md)  
 [Lesson 02](class/Lesson_02.md)  
+[Lesson 03](class/Lesson_03.md)  
 
 # English class pages
 
