@@ -43,8 +43,8 @@
 |father|fä'thər|/ˈfɑðɚ/|padre|I pray to Heavenly Father|Oro al Padre Celestial|
 |God|gäd|/ɡɑd/|Dios|God is good|Dios es bueno|
 |store|stôr|/stɔɹ/|tienda|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
-|bless|blĕs|/blɛs/|bendecir|||
-|blessing|blĕs'ĭng|/ˈblɛs.iŋ/|bendición|||
+|bless|blĕs|/blɛs/|bendecir|God bless us, every one|Que Dios nos bendiga, a cada de nostros|
+|blessing|blĕs'ĭng|/ˈblɛs.iŋ/|bendición|I thank Him for blessings he sends|Le agradezco por las bendiciones que me envía|
 |bed|bĕd|/bɛd/|cama|I lay my head on the bed|recosto mi cabeza en la cama|
 |head|hĕd|/hɛd/|cabeza|I lay my head on the bed|recosto mi cabeza en la cama|
 |help|hĕlp|/hɛlp/|ayudar,ayuda|Please help me|Por favor, ayudame|

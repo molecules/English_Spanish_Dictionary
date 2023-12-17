@@ -10,8 +10,8 @@
 |bee|bē|/bi/|abeja|Bees buzz|Las abejas zumban|
 |been|bĭn|/bɪn/|sido, estado|I have been sick|He estado enfermo|
 |beet|bēt|/bit/|remolacha|I eat beets|Como remolachas|
-|bless|blĕs|/blɛs/|bendecir|||
-|blessing|blĕs'ĭng|/ˈblɛs.iŋ/|bendición|||
+|bless|blĕs|/blɛs/|bendecir|God bless us, every one|Que Dios nos bendiga, a cada de nostros|
+|blessing|blĕs'ĭng|/ˈblɛs.iŋ/|bendición|I thank Him for blessings he sends|Le agradezco por las bendiciones que me envía|
 |boot|bo͞ot|/but/|bota|Boots are my favorite shoes|Las botas son mis zapatos favoritos|
 |buy|bī|/baɪ/|comprar|I'll go by the store to buy fish|Pasaré por la tienda a comprar pescado|
 |by|bī|/baɪ/|por, al lado de|I'll go by the store to buy fish|Pasaré por la tienda a comprar pescado|
