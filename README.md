@@ -8,7 +8,7 @@
 
 [dictionary](documents/dictionary.md)  
 [dictionary (searchable)](text_only/dictionary.tsv)  
-[dictionary, sorted by sound (searchable)](sound_dict.tsv)  
+[dictionary, sorted by sound (searchable)](text_only/sound_dict.tsv)  
 [dictionary, sorted by sound spelling (searchable)](text_only/sound_spelling_dict.tsv)  
 [dictionary, sorted by pronunciation (searchable)](text_only/pronunciation_dict.tsv)  
 [dictionary, sorted by word spelling (searchable)](text_only/word_spelling_dict.tsv)  
