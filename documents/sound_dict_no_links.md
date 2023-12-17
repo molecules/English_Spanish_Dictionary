@@ -6,11 +6,12 @@
 |fly|flī|/flaɪ/|volar, mosca|Watch the fly fly high|Mira la mosca volar alto|
 |hi|hī|/haɪ/|hola (informal)|Hi! How are you?|¡Hola! ¿Como estás?|
 |high|hī|/haɪ/|alto (de altitud)|Watch the fly fly high|Mira la mosca volar alto|
-|time|tīm|/taɪm/|tiempo|What time is it?|¿Qué hora es?|
+|time|tīm|/ttaɪm/|tiempo|What time is it?|¿Qué hora es?|
 |I|ī|/aɪ/|yo|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
 |baby|bā'bē|/ˈbeɪbi/|bebé|Our baby is so cute|Nuestra bebe es tan linda|
 |babe|bāb|/beɪb/|nena, chica muy guapa|My wife is a babe|mi esposa es una nena|
 |gate|gāt|/ɡeɪt/|puerta (de una cerca)|I painted the gate in the fence|Pinté la puerta en la cerca|
+|pray|prā|/pɹeɪ/|orar|I pray every day|Oro cada día|
 |paint|pānt|/peɪnt/|pintar|I painted the gate in the fence|Pinté la puerta en la cerca|
 |a|ā|/eɪ/|un, una|Take your car to a gas station|Lleva tu carro a una gasolinera|
 |baby|bā'bē|/ˈbeɪbi/|bebé|Our baby is so cute|Nuestra bebe es tan linda|
@@ -23,7 +24,7 @@
 |sheep|shēp|/ʃip/|oveja, ovejas|The shepherd tends his sheep|El pastor cuida a sus ovejas|
 |sheet|shēt|/ʃit/|hoja(de papel), sábana|Please hand me that sheet of paper|Por favor, dame aquel hoja de papel|
 |street|strēt|/stɹit/|calle|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
-|sweet|swēt|/stɹit/|calle|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
+|sweet|swēt|/swit/|calle|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
 |see|sē|/si/|ver,mirar|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
 |seat|sēt|/sit/|asiento, silla, sede|Please have a seat|Por favor, tome asiento|
 |eat|ēt|/it/|comer|I eat beets|Como remolachas|
@@ -39,12 +40,18 @@
 |bat|băt|/bæt/|murciélago|My cat sat on a bat|Mi gato se sentó en un murciélago|
 |cat|kăt|/kæt/|gato|My cat sat on a bat|Mi gato se sentó en un murciélago|
 |dog|dôg|/dɑg/|perro|A dog is a friend|Un perro es un amigo|
+|father|fä'thər|/ˈfɑðɚ/|padre|I pray to Heavenly Father|Oro al Padre Celestial|
 |God|gäd|/ɡɑd/|Dios|God is good|Dios es bueno|
 |store|stôr|/stɔɹ/|tienda|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
+|bless|blĕs|/blɛs/|bendecir|||
+|blessing|blĕs'ĭng|/ˈblɛs.iŋ/|bendición|||
 |bed|bĕd|/bɛd/|cama|I lay my head on the bed|recosto mi cabeza en la cama|
 |head|hĕd|/hɛd/|cabeza|I lay my head on the bed|recosto mi cabeza en la cama|
+|help|hĕlp|/hɛlp/|ayudar,ayuda|Please help me|Por favor, ayudame|
+|heavenly|hĕv'ən-lē|/ˈhɛvənli/|celestial|I pray to Heavenly Father|Oro al Padre Celestial|
 |red|rĕd|/ɹɛd/|rojo|I wear a red tie|Me llevo una corbata roja|
 |set|sĕt|/sɛt/|poner|I set the table|Puse la mesa|
+|learn|lûrn|/lɝn/|aprender|I love to learn|Me encanta aprender|
 |been|bĭn|/bɪn/|sido, estado|I have been sick|He estado enfermo|
 |fit|fĭt|/fɪt/|ajustar, adaptar, caber, en forma|My feet fit in my shoes|Mis pies caben en mis zapatos|
 |ship|shĭp|/ʃɪp/|barco, navio|I traveled by ship|Viajé en barco|
