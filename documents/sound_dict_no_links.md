@@ -23,6 +23,7 @@
 |green|grēn|/gɹin/|verde|The green grass grows|La hierba verde crece|
 |sheep|shēp|/ʃip/|oveja, ovejas|The shepherd tends his sheep|El pastor cuida a sus ovejas|
 |sheet|shēt|/ʃit/|hoja(de papel), sábana|Please hand me that sheet of paper|Por favor, dame aquel hoja de papel|
+|sleep|slēp|/slip/|dormir|Go to sleep early tonight|Ponte a dormir tempraño esta noche|
 |street|strēt|/stɹit/|calle|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
 |sweet|swēt|/swit/|calle|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
 |see|sē|/si/|ver,mirar|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
@@ -38,6 +39,7 @@
 |two|to͞o|/tu/|dos|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|
 |too|to͞o|/tu/|demasiado,tambien|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|
 |bat|băt|/bæt/|murciélago|My cat sat on a bat|Mi gato se sentó en un murciélago|
+|dance|dăns|/dæns/|bailar|The youth danced last night|Los jovenes bailaron anoche|
 |cat|kăt|/kæt/|gato|My cat sat on a bat|Mi gato se sentó en un murciélago|
 |dog|dôg|/dɑg/|perro|A dog is a friend|Un perro es un amigo|
 |father|fä'thər|/ˈfɑðɚ/|padre|I pray to Heavenly Father|Oro al Padre Celestial|

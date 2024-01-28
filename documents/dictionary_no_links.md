@@ -18,6 +18,7 @@
 |bye|bī|/baɪ/|adiós|Bye! I'm going by the store to buy fish|¡Adiós! Voy por la tienda a comprar pescado|
 |cat|kăt|/kæt/|gato|My cat sat on a bat|Mi gato se sentó en un murciélago|
 |cook|co͝ok|/cʊk/|cocinar|Cook the soup for one hour|Cocina la sopa durante una hora|
+|dance|dăns|/dæns/|bailar|The youth danced last night|Los jovenes bailaron anoche|
 |dog|dôg|/dɑg/|perro|A dog is a friend|Un perro es un amigo|
 |eat|ēt|/it/|comer|I eat beets|Como remolachas|
 |father|fä'thər|/ˈfɑðɚ/|padre|I pray to Heavenly Father|Oro al Padre Celestial|
@@ -54,6 +55,7 @@
 |ship|shĭp|/ʃɪp/|barco, navio|I traveled by ship|Viajé en barco|
 |shop|shôp|/shɑp/|ir de compras|We are going to shop for vegetables/We are going to buy vegetables|Vamos a comprar verduras|
 |sit|sĭt|/sɪt/|sentarse|Please sit down|Por favor, sientase|
+|sleep|slēp|/slip/|dormir|Go to sleep early tonight|Ponte a dormir tempraño esta noche|
 |soul|sōl|/soʊl/|alma|The scriptures are food for the soul|Las Escrituras son alimento para el alma|
 |store|stôr|/stɔɹ/|tienda|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
 |street|strēt|/stɹit/|calle|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
