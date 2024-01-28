@@ -58,5 +58,6 @@
 |sit|sĭt|/sɪt/|sentarse|Please sit down|Por favor, sientase|
 |if|ĭf|/ɪf/|si|If it is to be, it is up to me|Si así será, depende de mi|
 |it|ĭt|/ɪt/|(alguna cosa)lo, le, la, él, ello, ella, aquél, aquélla|Please give it to me|Por favor, damelo|
+|cook|co͝ok|/cʊk/|cocinar|Cook the soup for one hour|Cocina la sopa por una hora|
 |foot|fo͝ot|/fʊt/|pie|I stand on one foot|Estoy parado en un pie|
 |good|go͝od|/gʊd/|bien|God is good|Dios es bueno|

@@ -17,6 +17,7 @@
 |by|bī|/baɪ/|por, al lado de|I'll go by the store to buy fish|Pasaré por la tienda a comprar pescado|
 |bye|bī|/baɪ/|adiós|Bye! I'm going by the store to buy fish|¡Adiós! Voy por la tienda a comprar pescado|
 |cat|kăt|/kæt/|gato|My cat sat on a bat|Mi gato se sentó en un murciélago|
+|cook|co͝ok|/cʊk/|cocinar|Cook the soup for one hour|Cocina la sopa por una hora|
 |dog|dôg|/dɑg/|perro|A dog is a friend|Un perro es un amigo|
 |eat|ēt|/it/|comer|I eat beets|Como remolachas|
 |father|fä'thər|/ˈfɑðɚ/|padre|I pray to Heavenly Father|Oro al Padre Celestial|
