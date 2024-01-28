@@ -11,8 +11,10 @@
 |baby|bā'bē|/ˈbeɪbi/|bebé|Our baby is so cute|Nuestra bebe es tan linda|
 |babe|bāb|/beɪb/|nena, chica muy guapa|My wife is a babe|mi esposa es una nena|
 |gate|gāt|/ɡeɪt/|puerta (de una cerca)|I painted the gate in the fence|Pinté la puerta en la cerca|
+|play|plā|/pleɪ/|jugar|We like to play soccer|Nos gusta jugar fútbol|
 |pray|prā|/pɹeɪ/|orar|I pray every day|Oro cada día|
 |paint|pānt|/peɪnt/|pintar|I painted the gate in the fence|Pinté la puerta en la cerca|
+|paint|pānt|/peɪnt/|pintar|We painted the fence blue|Pintamos la cerca azúl|
 |a|ā|/eɪ/|un, una|Take your car to a gas station|Lleva tu carro a una gasolinera|
 |baby|bā'bē|/ˈbeɪbi/|bebé|Our baby is so cute|Nuestra bebe es tan linda|
 |bee|bē|/bi/|abeja|Bees buzz|Las abejas zumban|
@@ -30,6 +32,7 @@
 |seat|sēt|/sit/|asiento, silla, sede|Please have a seat|Por favor, tome asiento|
 |eat|ēt|/it/|comer|I eat beets|Como remolachas|
 |fork|fôrk|/foɹk/|tenedor|I beat the eggs with a fork|Bato los huevos con un tenedor|
+|sport|spôrt|/spoɹt/|deporte|I like to play sports|Me gusta hacer deporte|
 |go|gō|/goʊ/|ir|Let's go to the park|Vamanos al parque|
 |soul|sōl|/soʊl/|alma|The scriptures are food for the soul|Las Escrituras son alimento para el alma|
 |boot|bo͞ot|/but/|bota|Boots are my favorite shoes|Las botas son mis zapatos favoritos|
@@ -57,6 +60,7 @@
 |learn|lûrn|/lɝn/|aprender|I love to learn|Me encanta aprender|
 |been|bĭn|/bɪn/|sido, estado|I have been sick|He estado enfermo|
 |fit|fĭt|/fɪt/|ajustar, adaptar, caber, en forma|My feet fit in my shoes|Mis pies caben en mis zapatos|
+|listen|lĭsĭn|/lɪsɪn/|escuchar|I like to listen to music|Me gusta escuchar musica|
 |ship|shĭp|/ʃɪp/|barco, navio|I traveled by ship|Viajé en barco|
 |sit|sĭt|/sɪt/|sentarse|Please sit down|Por favor, sientase|
 |if|ĭf|/ɪf/|si|If it is to be, it is up to me|Si así será, depende de mi|

@@ -43,8 +43,11 @@
 |if|ĭf|/ɪf/|si|If it is to be, it is up to me|Si así será, depende de mi|
 |it|ĭt|/ɪt/|(alguna cosa)lo, le, la, él, ello, ella, aquél, aquélla|Please give it to me|Por favor, damelo|
 |learn|lûrn|/lɝn/|aprender|I love to learn|Me encanta aprender|
+|listen|lĭsĭn|/lɪsɪn/|escuchar|I like to listen to music|Me gusta escuchar musica|
 |noon|no͞on|/fud/|mediodía|Lunch is at noon|El almuerzo está al mediodía|
 |paint|pānt|/peɪnt/|pintar|I painted the gate in the fence|Pinté la puerta en la cerca|
+|paint|pānt|/peɪnt/|pintar|We painted the fence blue|Pintamos la cerca azúl|
+|play|plā|/pleɪ/|jugar|We like to play soccer|Nos gusta jugar fútbol|
 |pray|prā|/pɹeɪ/|orar|I pray every day|Oro cada día|
 |red|rĕd|/ɹɛd/|rojo|I wear a red tie|Me llevo una corbata roja|
 |seat|sēt|/sit/|asiento, silla, sede|Please have a seat|Por favor, tome asiento|
@@ -57,6 +60,7 @@
 |sit|sĭt|/sɪt/|sentarse|Please sit down|Por favor, sientase|
 |sleep|slēp|/slip/|dormir|Go to sleep early tonight|Vete a dormir tempraño esta noche|
 |soul|sōl|/soʊl/|alma|The scriptures are food for the soul|Las Escrituras son alimento para el alma|
+|sport|spôrt|/spoɹt/|deporte|I like to play sports|Me gusta hacer deporte|
 |store|stôr|/stɔɹ/|tienda|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
 |street|strēt|/stɹit/|calle|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
 |sweet|swēt|/swit/|calle|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
