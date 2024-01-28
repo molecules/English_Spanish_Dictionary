@@ -23,7 +23,7 @@
 |green|grēn|/gɹin/|verde|The green grass grows|La hierba verde crece|
 |sheep|shēp|/ʃip/|oveja, ovejas|The shepherd tends his sheep|El pastor cuida a sus ovejas|
 |sheet|shēt|/ʃit/|hoja(de papel), sábana|Please hand me that sheet of paper|Por favor, dame aquel hoja de papel|
-|sleep|slēp|/slip/|dormir|Go to sleep early tonight|Ponte a dormir tempraño esta noche|
+|sleep|slēp|/slip/|dormir|Go to sleep early tonight|Vete a dormir tempraño esta noche|
 |street|strēt|/stɹit/|calle|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
 |sweet|swēt|/swit/|calle|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
 |see|sē|/si/|ver,mirar|See the bee cross the street!|¡Mira la abeja cruzar la calle!|

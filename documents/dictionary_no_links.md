@@ -55,7 +55,7 @@
 |ship|shĭp|/ʃɪp/|barco, navio|I traveled by ship|Viajé en barco|
 |shop|shôp|/shɑp/|ir de compras|We are going to shop for vegetables/We are going to buy vegetables|Vamos a comprar verduras|
 |sit|sĭt|/sɪt/|sentarse|Please sit down|Por favor, sientase|
-|sleep|slēp|/slip/|dormir|Go to sleep early tonight|Ponte a dormir tempraño esta noche|
+|sleep|slēp|/slip/|dormir|Go to sleep early tonight|Vete a dormir tempraño esta noche|
 |soul|sōl|/soʊl/|alma|The scriptures are food for the soul|Las Escrituras son alimento para el alma|
 |store|stôr|/stɔɹ/|tienda|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
 |street|strēt|/stɹit/|calle|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
