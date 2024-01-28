@@ -1,8 +1,14 @@
+# Official English Connect Learner resources page
+
+<a href="https://www.englishconnect.org/learner/resources">The official English Connect resources page is very good. (Click here to go to it).</a>  
+
+
 # Lesson pages
 
 [Lesson 01](class/Lesson_01.md)  
 [Lesson 02](class/Lesson_02.md)  
 [Lesson 03](class/Lesson_03.md)  
+[Lesson 04](class/Lesson_04.md)  
 
 # English class pages
 
