@@ -60,7 +60,7 @@
 |learn|lûrn|/lɝn/|aprender|I love to learn|Me encanta aprender|
 |been|bĭn|/bɪn/|sido, estado|I have been sick|He estado enfermo|
 |fit|fĭt|/fɪt/|ajustar, adaptar, caber, en forma|My feet fit in my shoes|Mis pies caben en mis zapatos|
-|listen|lĭsĭn|/lɪsɪn/|escuchar|I like to listen to music|Me gusta escuchar musica|
+|listen|lĭs'ən|/lɪs.ən/|escuchar|I like to listen to music|Me gusta escuchar musica|
 |ship|shĭp|/ʃɪp/|barco, navio|I traveled by ship|Viajé en barco|
 |sit|sĭt|/sɪt/|sentarse|Please sit down|Por favor, sientase|
 |if|ĭf|/ɪf/|si|If it is to be, it is up to me|Si así será, depende de mi|

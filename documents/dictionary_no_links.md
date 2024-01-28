@@ -43,7 +43,7 @@
 |if|ĭf|/ɪf/|si|If it is to be, it is up to me|Si así será, depende de mi|
 |it|ĭt|/ɪt/|(alguna cosa)lo, le, la, él, ello, ella, aquél, aquélla|Please give it to me|Por favor, damelo|
 |learn|lûrn|/lɝn/|aprender|I love to learn|Me encanta aprender|
-|listen|lĭsĭn|/lɪsɪn/|escuchar|I like to listen to music|Me gusta escuchar musica|
+|listen|lĭs'ən|/lɪs.ən/|escuchar|I like to listen to music|Me gusta escuchar musica|
 |noon|no͞on|/fud/|mediodía|Lunch is at noon|El almuerzo está al mediodía|
 |paint|pānt|/peɪnt/|pintar|I painted the gate in the fence|Pinté la puerta en la cerca|
 |paint|pānt|/peɪnt/|pintar|We painted the fence blue|Pintamos la cerca azúl|
