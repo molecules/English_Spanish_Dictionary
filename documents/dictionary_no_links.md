@@ -52,6 +52,7 @@
 |sheep|shēp|/ʃip/|oveja, ovejas|The shepherd tends his sheep|El pastor cuida a sus ovejas|
 |sheet|shēt|/ʃit/|hoja(de papel), sábana|Please hand me that sheet of paper|Por favor, dame aquel hoja de papel|
 |ship|shĭp|/ʃɪp/|barco, navio|I traveled by ship|Viajé en barco|
+|shop|shôp|/shɑp/|ir de compras|We are going to shop for vegetables|Vamos a ir de compras para vegetales|
 |sit|sĭt|/sɪt/|sentarse|Please sit down|Por favor, sientase|
 |soul|sōl|/soʊl/|alma|The scriptures are food for the soul|Las Escrituras son alimento para el alma|
 |store|stôr|/stɔɹ/|tienda|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
