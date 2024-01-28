@@ -42,7 +42,7 @@
 |dog|dôg|/dɑg/|perro|A dog is a friend|Un perro es un amigo|
 |father|fä'thər|/ˈfɑðɚ/|padre|I pray to Heavenly Father|Oro al Padre Celestial|
 |God|gäd|/ɡɑd/|Dios|God is good|Dios es bueno|
-|shop|shôp|/shɑp/|ir de compras|We are going to shop for vegetables|Vamos a ir de compras para vegetales|
+|shop|shôp|/shɑp/|ir de compras|We are going to shop for vegetables/We are going to buy vegetables|Vamos a comprar verduras|
 |store|stôr|/stɔɹ/|tienda|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
 |bless|blĕs|/blɛs/|bendecir|God bless us, every one|Que Dios nos bendiga, a cada de nostros|
 |blessing|blĕs'ĭng|/ˈblɛs.iŋ/|bendición|I thank Him for blessings he sends|Le agradezco por las bendiciones que me envía|
