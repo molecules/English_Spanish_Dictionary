@@ -3,7 +3,7 @@
 
 
 ## Alphabet help 
-<a href="https://youtu.be/MvNdsUJDphU?si=PpEx7NuE_kF0c32u&t=100">How to say English Letters</a>
+<a href="https://youtu.be/MvNdsUJDphU?si=PpEx7NuE_kF0c32u&t=99">How to say English Letters</a>
 
 <a href="https://americanenglish.state.gov/resources/color-vowel-chart">"Color Vowel Chart" (pairs of words that share vowel sounds)</a>
 
