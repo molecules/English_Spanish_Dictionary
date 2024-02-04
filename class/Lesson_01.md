@@ -8,9 +8,11 @@
 <a href="https://americanenglish.state.gov/resources/color-vowel-chart">"Color Vowel Chart" (pairs of words that share vowel sounds)</a>
 
 
-
 ## Videos
 
 <a href="https://www.churchofjesuschrist.org/study/manual/new-testament-stories-for-young-readers/24-jesus-was-born?lang=eng">Jesus was born</a>
 
 <a href="https://www.youtube.com/watch?v=PtGQnPlK_Ac&t">Think versus Thing</a>
+
+<a href="https://youtu.be/I0PjmQDZKoI?si=8bvUjOfecK8A-YAc">Ship versus sheep</a> But note that in the United States the word "been" is pronounced like "bin". "been" is the only word in American English with a double "e" that doesn't have the same vowel sound as "sheep". 
+Advertencia: En los Estados Unidos, la palabra "been" se pronuncia como "bin". "been" es la unica palabra en inglés americano que tiene una doble "e" que no tiene el mismo sonido vocal que "sheep".
