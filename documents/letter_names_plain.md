@@ -1,4 +1,4 @@
-|Letter(sound file)|IPA pronunciation|Spanish equivalent|name (for English speakers)|
+|Letter|IPA pronunciation|Spanish equivalent|name (for English speakers)|
 |--|--|--|--|
 |a|eɪ|ei|a, ay|
 |b|bi|bi|bee|
