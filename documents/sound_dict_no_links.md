@@ -49,7 +49,7 @@
 |God|gäd|/ɡɑd/|Dios|God is good|Dios es bueno|
 |shop|shôp|/shɑp/|ir de compras|We are going to shop for vegetables/We are going to buy vegetables|Vamos a comprar verduras|
 |store|stôr|/stɔɹ/|tienda|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
-|banana|bə-năʹnə|/bəˈnæ.nə/|banana,banano,plátano,guineo,cambur,gualele|I like yellow bananas, but my wife likes yellow-green bananas|A mi me gustan los plátanos amarillos, pero a mi esposa le gustan los plátanos amarillos verdosos|
+|banana|bə-năʹnə|/bəˈnæ.nə/|banana,banano,<BR>plátano,guineo,<BR>cambur,gualele|I like yellow bananas, but my wife likes yellow-green bananas|A mi me gustan los plátanos amarillos, pero a mi esposa le gustan los plátanos amarillos verdosos|
 |bless|blĕs|/blɛs/|bendecir|God bless us, every one|Que Dios nos bendiga, a cada de nostros|
 |blessing|blĕs'ĭng|/ˈblɛs.iŋ/|bendición|I thank Him for blessings he sends|Le agradezco por las bendiciones que me envía|
 |bed|bĕd|/bɛd/|cama|I lay my head on the bed|recosto mi cabeza en la cama|
