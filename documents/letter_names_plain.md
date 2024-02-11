@@ -1,5 +1,5 @@
-### These are the "names" of the letters (not necessarily their sounds).   
-### Estos son los "nombres" de las letters (quizás no son sus sonidos).   
+##### These are the "names" of the letters (not necessarily their sounds).   
+##### Estos son los "nombres" de las letters (quizás no son sus sonidos).   
 
 | Letter | name<BR>pronounced<BR>in IPA | name<BR>pronounced<BR>in Spanish | name for<BR>English<BR>speakers|
 |--|--|--|--|
