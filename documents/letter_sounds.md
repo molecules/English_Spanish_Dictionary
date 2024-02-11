@@ -4,7 +4,7 @@
 (Work in progress)
 
 | Letter | name as<BR>pronounced<BR>in IPA | name as<BR>pronounced<BR>in Spanish | name as<BR>pronounced<BR>in English| possible sounds |
-|--|--|--|--|
+|--|--|--|--|--|
 |a|eɪ|ei|a, ay| eɪ æ ɛ ə ɑ |
 |b|bi|bi|bee|      |
 |c|si|si|cee, see| k s |
