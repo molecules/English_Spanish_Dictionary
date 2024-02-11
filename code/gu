@@ -18,6 +18,7 @@ git add dictionary.* *_dict.tsv
 git add ../documents/dictionary*
 git add ../documents/sound_dict*
 git add ../documents/sounds*
+git add ../documents/letter_names_plain.*
 git add ../class/*.md
 git commit -m "$message"
 git push
