@@ -6,7 +6,7 @@
 |fly|flī|/flaɪ/|volar, mosca|Watch the fly fly high|Mira la mosca volar alto|
 |hi|hī|/haɪ/|hola (informal)|Hi! How are you?|¡Hola! ¿Como estás?|
 |high|hī|/haɪ/|alto (de altitud)|Watch the fly fly high|Mira la mosca volar alto|
-|time|tīm|/ttaɪm/|tiempo|What time is it?|¿Qué hora es?|
+|time|tīm|/taɪm/|tiempo|What time is it?|¿Qué hora es?|
 |I|ī|/aɪ/|yo|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
 |baby|bā'bē|/ˈbeɪbi/|bebé|Our baby is so cute|Nuestra bebe es tan linda|
 |babe|bāb|/beɪb/|nena, chica muy guapa|My wife is a babe|mi esposa es una nena|
@@ -27,7 +27,7 @@
 |sheet|shēt|/ʃit/|hoja(de papel), sábana|Please hand me that sheet of paper|Por favor, dame aquel hoja de papel|
 |sleep|slēp|/slip/|dormir|Go to sleep early tonight|Vete a dormir tempraño esta noche|
 |street|strēt|/stɹit/|calle|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
-|sweet|swēt|/swit/|calle|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
+|sweet|swēt|/swit/|dulce|The ice cream is too sweet|El helado es demasiado dulce|
 |see|sē|/si/|ver,mirar|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
 |seat|sēt|/sit/|asiento, silla, sede|Please have a seat|Por favor, tome asiento|
 |eat|ēt|/it/|comer|I eat beets|Como remolachas|

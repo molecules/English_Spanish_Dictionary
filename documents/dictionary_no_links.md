@@ -64,8 +64,8 @@
 |sport|spôrt|/spoɹt/|deporte|I like to play sports|Me gusta hacer deporte|
 |store|stôr|/stɔɹ/|tienda|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
 |street|strēt|/stɹit/|calle|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
-|sweet|swēt|/swit/|calle|See the bee cross the street!|¡Mira la abeja cruzar la calle!|
-|time|tīm|/ttaɪm/|tiempo|What time is it?|¿Qué hora es?|
+|sweet|swēt|/swit/|dulce|The ice cream is too sweet|El helado es demasiado dulce|
+|time|tīm|/taɪm/|tiempo|What time is it?|¿Qué hora es?|
 |to|to͞o|/tu/|(indica infinitivo)|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|
 |too|to͞o|/tu/|demasiado,tambien|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|
 |two|to͞o|/tu/|dos|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|
