@@ -4,6 +4,7 @@
 |babe|bāb|/beɪb/|nena, chica muy guapa|My wife is a babe|mi esposa es una nena|
 |baby|bā'bē|/ˈbeɪbi/|bebé|Our baby is so cute|Nuestra bebe es tan linda|
 |baby|bā'bē|/ˈbeɪbi/|bebé|Our baby is so cute|Nuestra bebe es tan linda|
+|banana|bə-năʹnə|/bəˈnæ.nə/|banana,banano,plátano,guineo,cambur,gualele|I like yellow bananas, but my wife likes yellow-green bananas|Me gusta plátanos amarillos, pero a mi esposa le gusta plátanos verde-amarillos|
 |bat|băt|/bæt/|murciélago|My cat sat on a bat|Mi gato se sentó en un murciélago|
 |beat|bēt|/bit/|batir, vencer, derrotar, ritmo, golpear|I beat the eggs with a fork|Bato los huevos con un tenedor|
 |bed|bĕd|/bɛd/|cama|I lay my head on the bed|recosto mi cabeza en la cama|
