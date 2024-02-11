@@ -94,3 +94,4 @@ for (name in names_to_process) {
 render(input = "../documents/sounds_no_links.md", output_format = "html_document")
 render(input = "../class/Phrases_lesson_01.md", output_format = "html_document")
 render(input = "../documents/letter_names_plain.md", output_format = "html_document")
+render(input = "../documents/letter_sounds.md", output_format = "html_document")

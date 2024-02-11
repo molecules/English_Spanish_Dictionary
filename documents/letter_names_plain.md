@@ -1,7 +1,7 @@
 # These are the "names" of the letters (not necessarily their sounds).   
 # Estos son los "nombres" de las letters (quizás no son sus sonidos).   
 
-| Letter | name pronounced<BR>in IPA | name pronounced<BR>in Spanish | name for<BR>English speakers)|
+| Letter | name pronounced<BR>in IPA | name pronounced<BR>in Spanish | name for<BR>English speakers|
 |--|--|--|--|
 |a|eɪ|ei|a, ay|
 |b|bi|bi|bee|
