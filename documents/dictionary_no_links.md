@@ -1,6 +1,8 @@
 |word|pronunciation<BR>(AHD)|pronunciation<BR>(IPA)|some translations<BR>(algunos traducciones)|example in English|ejemplo en español|
 |----|----|----|----|----|----|
 |a|ā|/eɪ/|un, una|Take your car to a gas station|Lleva tu carro a una gasolinera|
+|about|ə-bout|/əˈbaʊt/|aproximadamente, sobre, cerca de, acerca de|I arrived about five minutes ago|Llegué hace unos cinco minutos|
+|arrive|ə-rīvʹ|/əˈɹaɪv/|Llegar|I arrived about five minutes ago|Llegué hace unos cinco minutos|
 |babe|bāb|/beɪb/|nena, chica muy guapa|My wife is a babe|mi esposa es una nena|
 |baby|bā'bē|/ˈbeɪbi/|bebé|Our baby is so cute|Nuestra bebe es tan linda|
 |baby|bā'bē|/ˈbeɪbi/|bebé|Our baby is so cute|Nuestra bebe es tan linda|
@@ -17,6 +19,7 @@
 |buy|bī|/baɪ/|comprar|I'll go by the store to buy fish|Pasaré por la tienda a comprar pescado|
 |by|bī|/baɪ/|por, al lado de|I'll go by the store to buy fish|Pasaré por la tienda a comprar pescado|
 |bye|bī|/baɪ/|adiós|Bye! I'm going by the store to buy fish|¡Adiós! Voy por la tienda a comprar pescado|
+|can|căn|/kæn/|poder, lata|I can open the can of vegetables|Puedo abrir la lata de verduras|
 |cat|kăt|/kæt/|gato|My cat sat on a bat|Mi gato se sentó en un murciélago|
 |cook|co͝ok|/cʊk/|cocinar|Cook the soup for one hour|Cocina la sopa durante una hora|
 |dance|dăns|/dæns/|bailar|The youth danced last night|Los jovenes bailaron anoche|

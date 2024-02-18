@@ -42,6 +42,7 @@
 |two|to͞o|/tu/|dos|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|
 |too|to͞o|/tu/|demasiado,tambien|I would like two sandwiches if it's not too much to ask|Me gustaría dos sándwiches si no es demasiado pedir|
 |bat|băt|/bæt/|murciélago|My cat sat on a bat|Mi gato se sentó en un murciélago|
+|can|căn|/kæn/|poder, lata|I can open the can of vegetables|Puedo abrir la lata de verduras|
 |dance|dăns|/dæns/|bailar|The youth danced last night|Los jovenes bailaron anoche|
 |cat|kăt|/kæt/|gato|My cat sat on a bat|Mi gato se sentó en un murciélago|
 |dog|dôg|/dɑg/|perro|A dog is a friend|Un perro es un amigo|
@@ -50,6 +51,8 @@
 |shop|shôp|/shɑp/|ir de compras|We are going to shop for vegetables/We are going to buy vegetables|Vamos a comprar verduras|
 |store|stôr|/stɔɹ/|tienda|I went by the store to buy fish|Pasé por la tienda a comprar pescado|
 |banana|bə-năʹnə|/bəˈnæ.nə/|banana, banano, plátano, guineo, cambur, gualele|I like yellow bananas, but my wife likes yellow-green bananas|A mi me gustan los plátanos amarillos, pero a mi esposa le gustan los plátanos amarillos verdosos|
+|about|ə-bout|/əˈbaʊt/|aproximadamente, sobre, cerca de, acerca de|I arrived about five minutes ago|Llegué hace unos cinco minutos|
+|arrive|ə-rīvʹ|/əˈɹaɪv/|Llegar|I arrived about five minutes ago|Llegué hace unos cinco minutos|
 |bless|blĕs|/blɛs/|bendecir|God bless us, every one|Que Dios nos bendiga, a cada de nostros|
 |blessing|blĕs'ĭng|/ˈblɛs.iŋ/|bendición|I thank Him for blessings he sends|Le agradezco por las bendiciones que me envía|
 |bed|bĕd|/bɛd/|cama|I lay my head on the bed|recosto mi cabeza en la cama|
