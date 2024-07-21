@@ -2,6 +2,8 @@
 
 <a href="https://www.englishconnect.org/learner/resources">The official English Connect resources page is very good. (Click here to go to it).</a>  
 
+# To be (Duolingo blog)
+<a href="https://blog.duolingo.com/es/como-usar-verbo-to-be-en-ingles">To be (Duolingo blog)</a>
 
 # Lesson pages
 
