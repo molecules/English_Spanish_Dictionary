@@ -2,15 +2,15 @@
 |----|-------------------|-----------|------------------|------------------|
 |nuke|nuk|calentar en microondas|Nuke the pizza.|Calenta la pizza en la microondas.|
 |refrigerator|rih-frihj-uhr-ey-duhr|refrigerador||||
-|fridge|frihj|refrigerator||||
+|fridge|frihj|refrigerador||||
 |stove|stov|estufa|||
 |oven|uh-vihn|horno|||
 |microwave|may-kro-weyv|microonda|||
 |sink|sihngk|fregadero|||
 |faucet|fa-siht|llave (de agua)|||
 |soap|sop|jabon|||
-|hand soap|hahnd sop|jabon de mano|||
-|dish soap|dihsh sop|jabon para platos|||
+|hand soap|hahnd sop|jabon para las manos|||
+|dish soap|dihsh sop|jabon para los platos|||
 |sponge|spuhnj|esponja|||
 |fork|fork|tenedor|||
 |spoon|spun|cuchara|||
