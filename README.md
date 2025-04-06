@@ -31,3 +31,14 @@
 
 https://tinyurl.com/englishforme  
 https://tinyurl.com/inglesparami  
+
+# SONGS
+
+Originals:  
+
+[I am a child of God (English)](https://www.churchofjesuschrist.org/media/music/songs/i-am-a-child-of-god-wolford?lang=eng)  
+[Soy hijo de Dios](https://www.churchofjesuschrist.org/media/music/songs/i-am-a-child-of-god-wolford?lang=es) 
+
+[Traducción literal con pronunciación](Child_of_God_literal_and_phonetic.docx)
+
+
